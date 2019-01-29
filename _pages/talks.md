@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -14,6 +14,12 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
+
+## Invited Talks
+
+1. [Collapse of Deep and Narrow Neural Nets](http://lululxvi.github.io/files/talks/2019icerm.pdf). *ICERM Scientific Machine Learning workshop*, Providence, RI, Jan. 2019.
+
+## Conference Presentations
 
 1. [Quantitative Prediction of Erythrocyte Sickling for Anti-polymerization Activities in Sickle Cell Disease](http://lululxvi.github.io/files/posters/2018rbc.pdf). *60<sup>th</sup> Annual Red Cell Meeting*, New Haven, CT, Oct. 2018. (Poster Presentation)
 1. [OpenRBC: A Fast Simulator of Red Blood Cells at Protein Resolution](http://lululxvi.github.io/files/talks/2017siam.pdf). *SIAM Annual Meeting*, Pittsburgh, PA, Jul. 2017. (Oral Presentation)

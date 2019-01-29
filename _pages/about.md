@@ -13,9 +13,12 @@ redirect_from:
 - My current research interests are on machine learning for scientific computing. My broad research interests focus on computational biomechanics and high performance computing.
 - [Curriculum Vitae](http://lululxvi.github.io/files/CV.pdf)
 
+<!---
 Upcoming talks
 ======
-- I will give a talk on [collapse of deep and narrow neural nets](https://arxiv.org/abs/1808.04947) in [ICERM Scientific Machine Learning workshop](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview) (Jan 28 -- 30, 2019).
+-->
 
 Recent news
 ======
+
+- I gave a talk on [collapse of deep and narrow neural nets](http://lululxvi.github.io/files/talks/2019icerm.pdf) in [ICERM Scientific Machine Learning workshop](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview) (Jan 28 -- 30, 2019).
