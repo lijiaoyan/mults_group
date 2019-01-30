@@ -17,7 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
-1. [Collapse of Deep and Narrow Neural Nets](http://lululxvi.github.io/files/talks/2019icerm.pdf). *ICERM Scientific Machine Learning workshop*, Providence, RI, Jan. 2019.
+1. [Collapse of Deep and Narrow Neural Nets](http://lululxvi.github.io/files/talks/2019icerm.pdf). *ICERM Scientific Machine Learning*, Providence, RI, Jan. 2019. ([Video](https://icerm.brown.edu/video_archive/?play=1812))
 
 ## Conference Presentations
 

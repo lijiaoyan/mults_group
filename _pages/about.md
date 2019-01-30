@@ -21,4 +21,4 @@ Upcoming talks
 Recent news
 ======
 
-- I gave a talk on [collapse of deep and narrow neural nets](http://lululxvi.github.io/files/talks/2019icerm.pdf) in [ICERM Scientific Machine Learning workshop](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview) (Jan 28 -- 30, 2019).
+- I gave a talk on [collapse of deep and narrow neural nets](https://icerm.brown.edu/video_archive/?play=1812) in [ICERM Scientific Machine Learning](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview) (Jan 28 -- 30, 2019).
