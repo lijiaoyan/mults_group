@@ -7,7 +7,7 @@ author_profile: true
 
 - Associate Member, Sigma Xi, 2018.
 - George Irving Hopkins Fellowship, Brown University, 2017.
-- [Open Graduate Education Program](https://www.brown.edu/academics/gradschool/opengraduateeducation), Brown University, 2017--2019.
+- [Open Graduate Education Program](https://www.brown.edu/academics/gradschool/opengraduateeducation), Brown University, 2017.
 - Third Prize, [IBM OpenPower Developer Challenge contest](https://openpowerfoundation.org/blogs/openpower-developer-challenge-finalists/), 2016.
 - Fellowship for graduate students, Brown University, 2015.
 - Provincial Outstanding Graduates, Beijing, China, 2013. (top 5% of graduating students)
@@ -18,7 +18,7 @@ author_profile: true
 - Jiang Nanxiang Scholarship, Tsinghua University, 2012. (top 1 student in every department)
 - Summer Research Scholarship, [Chinese Undergraduate Visiting Research Program](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr), Stanford University, 2012.
 - Outstanding Volunteer, Tsinghua University learning center, 2012.
-- Member of ["Spark" Innovative Talent Cultivation Program](https://student.tsinghua.edu.cn/topic/xinghuo/index.html), Tsinghua University, 2011--2013. (top 36 of 3300 students)
+- Member of ["Spark" Innovative Talent Cultivation Program](https://student.tsinghua.edu.cn/topic/xinghuo/index.html), Tsinghua University, 2011. (top 36 of 3300 students)
 - Tsinghua Friend--Kai Feng Fellowship, Tsinghua University, 2011. (top 10 students in every grade)
 - Best Paper Award, 10<sup>th</sup> National Symposium on Refrigerators, Air Conditioners and Compressors, Shandong, China, 2011.
 - Third Prize, 29<sup>th</sup> "Challenge Cup" Tsinghua University Students' Extracurricular Academic Science and Technology Works Contest, 2011.
@@ -28,3 +28,5 @@ author_profile: true
 - Second Prize, 4<sup>th</sup> Intelligent Car Competition, Tsinghua University, 2010.
 - First Prize, Chinese Physics Olympiad, Jiangsu, China, 2008.
 - First Prize, Chinese Mathematical Olympiad, Jiangsu, China, 2008.
+- Third Prize, Chinese Chemistry Olympiad, Jiangsu, China, 2008.
+- Second Prize, Chinese Physics Olympiad, Jiangsu, China, 2007.
