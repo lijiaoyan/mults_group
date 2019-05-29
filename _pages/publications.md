@@ -19,6 +19,7 @@ author_profile: true
 
 ## Preprints
 
+1. Jin, P.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, Tang, Y., & Karniadakis, G. E. (2019). [Quantifying the Generalization Error in Deep Learning in terms of Data Distribution and Neural Network Smoothness](https://arxiv.org/abs/1905.11427). *arXiv preprint arXiv:1905.11427*.
 1. **Lu, L.**<sup>\*</sup>, Shin, Y.<sup>\*</sup>, Su, Y., & Karniadakis, G. E. (2019). [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/abs/1903.06733). *arXiv preprint arXiv:1903.06733*.
 1. Pang, G.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, & Karniadakis, G. E. (2018). [fPINNs: Fractional Physics-Informed Neural Networks](https://arxiv.org/abs/1811.08967). *arXiv preprint arXiv:1811.08967*.
 1. Zhang, D., **Lu, L.**, Guo, L., & Karniadakis, G. E. (2018). [Quantifying Total Uncertainty in Physics-informed Neural Networks for Solving Forward and Inverse Stochastic Problems](https://arxiv.org/abs/1809.08327). *arXiv preprint arXiv:1809.08327*.
