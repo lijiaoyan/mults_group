@@ -21,4 +21,8 @@ Upcoming talks
 Recent news
 ======
 
+- [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (Jul 10, 2019)
+- The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
+- [Paper about the generalization error in deep learning](https://arxiv.org/abs/1905.11427) was uploaded to arXiv. (May 27, 2019)
+- [Paper about the dying ReLU problem](https://arxiv.org/abs/1903.06733) was uploaded to arXiv. (Mar 15, 2019)
 - I gave a talk on [collapse of deep and narrow neural nets](https://icerm.brown.edu/video_archive/?play=1812) in [ICERM Scientific Machine Learning](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview) (Jan 28 -- 30, 2019).
