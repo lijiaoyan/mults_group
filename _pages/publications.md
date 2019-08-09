@@ -23,11 +23,11 @@ author_profile: true
 1. Jin, P.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, Tang, Y., & Karniadakis, G. E. (2019). [Quantifying the Generalization Error in Deep Learning in terms of Data Distribution and Neural Network Smoothness](https://arxiv.org/abs/1905.11427). *arXiv preprint arXiv:1905.11427*.
 1. **Lu, L.**<sup>\*</sup>, Shin, Y.<sup>\*</sup>, Su, Y., & Karniadakis, G. E. (2019). [Dying ReLU and Initialization: Theory and Numerical Examples](https://arxiv.org/abs/1903.06733). *arXiv preprint arXiv:1903.06733*.
 1. Pang, G.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, & Karniadakis, G. E. (2018). [fPINNs: Fractional Physics-Informed Neural Networks](https://arxiv.org/abs/1811.08967). *arXiv preprint arXiv:1811.08967*.
-1. Zhang, D., **Lu, L.**, Guo, L., & Karniadakis, G. E. (2018). [Quantifying Total Uncertainty in Physics-informed Neural Networks for Solving Forward and Inverse Stochastic Problems](https://arxiv.org/abs/1809.08327). *arXiv preprint arXiv:1809.08327*.
 1. **Lu, L.**, Su, Y., & Karniadakis, G. E. (2018). [Collapse of Deep and Narrow Neural Nets](https://arxiv.org/abs/1808.04947). *arXiv preprint arXiv:1808.04947*.
 
 ## Journal Papers
 
+1. Zhang, D., **Lu, L.**, Guo, L., & Karniadakis, G. E. (2019). [Quantifying Total Uncertainty in Physics-informed Neural Networks for Solving Forward and Inverse Stochastic Problems](https://www.sciencedirect.com/science/article/pii/S0021999119305340). *Journal of Computational Physics*, 397, 108850.
 1. Li, H.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, Li, X., Buffet, P. A., Dao, M., Karniadakis, G. E., & Suresh, S. (2018). [Mechanics of Diseased Red Blood Cells in Human Spleen and Consequences for Hereditary Blood Disorders](https://www.pnas.org/content/115/38/9574.short). *Proceedings of the National Academy of Sciences*, 115(38), 9574--9579.
 1. Li, H., Papageorgiou, D., Chang, H. Y., **Lu, L.**, Yang, J., & Deng, Y. (2018). [Synergistic Integration of Laboratory and Numerical Approaches in Studies of the Biomechanics of Diseased Red Blood Cells](https://www.mdpi.com/2079-6374/8/3/76). *Biosensors*, 8(3), 76.
 1. **Lu, L.**<sup>\*</sup>, Deng, Y.<sup>\*</sup>, Li, X., Li, H., & Karniadakis, G. E. (2018). [Understanding the Twisted Structure of Amyloid Fibrils via Molecular Simulations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b07255). *The Journal of Physical Chemistry B*, 122(49), 11302-11310.
