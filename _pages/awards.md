@@ -8,14 +8,14 @@ author_profile: true
 - Associate Member, Sigma Xi, 2018.
 - George Irving Hopkins Fellowship, Brown University, 2017.
 - [Open Graduate Education Program](https://www.brown.edu/academics/gradschool/opengraduateeducation), Brown University, 2017.
-- Third Prize, [IBM OpenPower Developer Challenge contest](https://openpowerfoundation.org/blogs/openpower-developer-challenge-finalists/), 2016.
+- Third Prize, [IBM OpenPOWER Developer Challenge contest](https://openpowerfoundation.org/blogs/openpower-developer-challenge-finalists/), 2016.
 - Fellowship for graduate students, Brown University, 2015.
 - Provincial Outstanding Graduates, Beijing, China, 2013. (top 5% of graduating students)
 - Provincial Merit Student, Beijing, China, 2013. (top 1 student in every department)
 - Outstanding Graduates, Tsinghua University, 2013. (top 2% of graduating students)
 - Outstanding Undergraduate Graduation Thesis, Tsinghua University, 2013. (top 5% of graduating students)
 - Excellent Student Cadre, Tsinghua University, 2013.
-- Jiang Nanxiang Scholarship, Tsinghua University, 2012. (top 1 student in every department)
+- December Ninth Scholarship, Tsinghua University, 2012. (top 1 student in every department)
 - Summer Research Scholarship, [Chinese Undergraduate Visiting Research Program](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr), Stanford University, 2012.
 - Outstanding Volunteer, Tsinghua University learning center, 2012.
 - Member of ["Spark" Innovative Talent Cultivation Program](https://student.tsinghua.edu.cn/topic/xinghuo/index.html), Tsinghua University, 2011. (top 36 of 3300 students)
