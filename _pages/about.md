@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug 21, 2019)
 - [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (Jul 10, 2019)
 - The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
 - [Paper about the generalization error in deep learning](https://arxiv.org/abs/1905.11427) was uploaded to arXiv. (May 27, 2019)
