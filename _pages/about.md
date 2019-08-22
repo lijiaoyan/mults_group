@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- [News](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs) on eHealthNews.eu. (Aug 22, 2019)
 - [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug 21, 2019)
 - [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (Jul 10, 2019)
 - The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
