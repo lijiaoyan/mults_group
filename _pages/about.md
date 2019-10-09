@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- Paper about [DeepONets](https://arxiv.org/abs/1910.03193) to learn operators was uploaded to arXiv. (Oct 8, 2019)
 - News on [Brown News](https://www.brown.edu/news/2019-08-22/sicklecell) and [eHealthNews.eu](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs). (Aug 22, 2019)
 - [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug 21, 2019)
 - [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (Jul 10, 2019)
