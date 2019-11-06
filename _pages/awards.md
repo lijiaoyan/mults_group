@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Conference Travel Fund, Brown University, 2020.
+- International Conference Travel Fund, Brown University, 2019.
 - Associate Member, Sigma Xi, 2018.
 - George Irving Hopkins Fellowship, Brown University, 2017.
 - [Open Graduate Education Program](https://www.brown.edu/academics/gradschool/opengraduateeducation), Brown University, 2017.
