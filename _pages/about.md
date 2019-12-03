@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ======
 
+- I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov 21, 2019)
+- I gave a talk on Scientific Machine Learning at University of North Carolina at Charlotte, Department of Mathematics and Statistics. (Nov 18, 2019)
 - News on [Brown Daily Herald](http://www.browndailyherald.com/2019/10/30/university-researchers-develop-computer-model-design-drugs-sickle-cell/). (Oct 30, 2019)
 - Paper about [DeepONets](https://arxiv.org/abs/1910.03193) to learn operators was uploaded to arXiv. (Oct 8, 2019)
 - News on [Brown News](https://www.brown.edu/news/2019-08-22/sicklecell) and [eHealthNews.eu](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs). (Aug 22, 2019)
