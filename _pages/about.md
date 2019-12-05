@@ -10,7 +10,7 @@ redirect_from:
 
 - I am a Ph.D. candidate in [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics) at [Brown University](https://www.brown.edu/), working with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis).
 - Before joining Brown, I received my B.Eng. degree in [Department of Thermal Engineering](https://www.tsinghua.edu.cn/publish/teen/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn) in 2013.
-- My current research interests are on the theory of deep learning and machine learning for scientific computing. My broad research interests focus on computational biomechanics and high performance computing.
+- My current research interests are on deep learning theory and scientific machine learning. My broad research interests focus on computational biology and high performance computing.
 - [Curriculum Vitae](http://lululxvi.github.io/files/CV.pdf)
 
 <!---
@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in nano-optics and metamaterials, see our paper on [arXiv](https://arxiv.org/abs/1912.01085). (Dec 2, 2019)
 - I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov 21, 2019)
 - I gave a talk on Scientific Machine Learning at University of North Carolina at Charlotte, Department of Mathematics and Statistics. (Nov 18, 2019)
 - News on [Brown Daily Herald](http://www.browndailyherald.com/2019/10/30/university-researchers-develop-computer-model-design-drugs-sickle-cell/). (Oct 30, 2019)

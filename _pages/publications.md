@@ -19,6 +19,7 @@ author_profile: true
 
 ## Preprints
 
+1. Chen, Y., **Lu, L.**, Karniadakis, G. E., & Negro, L. D. (2019). [Physics-Informed Neural Networks for Inverse Problems in Nano-optics and Metamaterials](https://arxiv.org/abs/1912.01085). *arXiv preprint arXiv:1912.01085*.
 1. **Lu, L.**, Jin, P., & Karniadakis, G. E. (2019). [DeepONet: Learning Nonlinear Operators for Identifying Differential Equations based on the Universal Approximation Theorem of Operators](https://arxiv.org/abs/1910.03193). *arXiv preprint arXiv:1910.03193*.
 1. **Lu, L.**, Meng, X., Mao, Z., & Karniadakis, G. E. (2019). [DeepXDE: A Deep Learning Library for Solving Differential Equations](https://arxiv.org/abs/1907.04502). *arXiv preprint arXiv:1907.04502*.
 1. Jin, P.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, Tang, Y., & Karniadakis, G. E. (2019). [Quantifying the Generalization Error in Deep Learning in terms of Data Distribution and Neural Network Smoothness](https://arxiv.org/abs/1905.11427). *arXiv preprint arXiv:1905.11427*.
@@ -39,3 +40,7 @@ author_profile: true
 1. Tang, Y. H.<sup>\*</sup>, **Lu, L.**<sup>\*</sup>, Li, H., Evangelinos, C., Grinberg, L., Sachdeva, V., & Karniadakis, G. E. (2017). [OpenRBC: A Fast Simulator of Red Blood Cells at Protein Resolution](https://www.sciencedirect.com/science/article/pii/S0006349517304368). *Biophysical Journal*, 112(10), 2030--2037. (**Highlighted on *Biophysical Journal* homepage**)
 1. **Lu, L.**, Li, X., Vekilov, P. G., & Karniadakis, G. E. (2016). [Probing the Twisted Structure of Sickle Hemoglobin Fibers via Particle Simulations](https://www.sciencedirect.com/science/article/pii/S0006349516301205). *Biophysical Journal*, 110(9), 2085--2093. (**Highlighted on *Biophysical Journal* homepage**)
 1. **Lu, L.**, Zhang, X., Yan, Y., Li, J. M., & Zhao, X. (2014). [Theoretical Analysis of Natural-Gas Leakage in Urban Medium-pressure Pipelines](https://www.researchgate.net/profile/Xingxing_Zhang4/publication/265020333_Theoretical_Analysis_of_Natural-Gas_Leakage_in_Urban_Medium-pressure_Pipelines/links/53fc5acc0cf2dca8ffff1239/Theoretical-Analysis-of-Natural-Gas-Leakage-in-Urban-Medium-pressure-Pipelines.pdf). *Journal of Environment and Human*, 1(2), 71--86.
+
+## Workshop Papers
+
+1. **Lu, L.**, Meng, X., Mao, Z., & Karniadakis, G. E. (2019). [DeepXDE: A Deep Learning Library for Solving Differential Equations](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_2.pdf). *Conference on Neural Information Processing Systems Workshop on Machine Learning and the Physical Sciences*.
