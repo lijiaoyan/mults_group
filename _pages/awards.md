@@ -7,6 +7,7 @@ author_profile: true
 
 - SIAM Student Travel Award, SIAM Conference on Mathematics of Data Science, 2020.
 - Conference Travel Fund, Brown University, 2020.
+- Open Graduate Education Travel Award, Brown University, 2019.
 - International Conference Travel Fund, Brown University, 2019.
 - Associate Member, Sigma Xi, 2018.
 - George Irving Hopkins Fellowship, Brown University, 2017.
