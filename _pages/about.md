@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- [DeepXDE](https://arxiv.org/abs/1907.04502) was presented at NeurIPS workshop on [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/). (Dec 14, 2019)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in nano-optics and metamaterials, see our paper on [arXiv](https://arxiv.org/abs/1912.01085). (Dec 2, 2019)
 - I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov 21, 2019)
 - I gave a talk on Scientific Machine Learning at University of North Carolina at Charlotte, Department of Mathematics and Statistics. (Nov 18, 2019)
