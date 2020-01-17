@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ======
 
+- I gave a talk on [DeepONet](https://arxiv.org/abs/1910.03193) at [JMM](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_wednesday.html). (Jan 15, 2020)
+- I gave a talk on [DeepXDE](https://arxiv.org/abs/1907.04502) at [Physics Informed Machine Learning Workshop](http://www.cvent.com/events/3rd-physics-informed-machine-learning/event-summary-f98f0383e62f4bc4a68c663f7b08d22d.aspx). (Jan 14, 2020)
 - [DeepXDE](https://arxiv.org/abs/1907.04502) was presented at NeurIPS workshop on [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/). (Dec 14, 2019)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in nano-optics and metamaterials, see our paper on [arXiv](https://arxiv.org/abs/1912.01085). (Dec 2, 2019)
 - I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov 21, 2019)
@@ -33,4 +35,4 @@ Recent news
 - The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
 - [Paper about the generalization error in deep learning](https://arxiv.org/abs/1905.11427) was uploaded to arXiv. (May 27, 2019)
 - [Paper about the dying ReLU problem](https://arxiv.org/abs/1903.06733) was uploaded to arXiv. (Mar 15, 2019)
-- I gave a talk on [collapse of deep and narrow neural nets](https://icerm.brown.edu/video_archive/?play=1812) in [ICERM Scientific Machine Learning](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview) (Jan 28 -- 30, 2019).
+- I gave a talk on [collapse of deep and narrow neural nets](https://icerm.brown.edu/video_archive/?play=1812) in [ICERM Scientific Machine Learning](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview). (Jan 28 -- 30, 2019)

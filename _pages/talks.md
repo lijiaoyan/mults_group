@@ -23,6 +23,8 @@ author_profile: true
 
 ## Conference Presentations
 
+1. [DeepONet: Learning Nonlinear Operators for Identifying Differential Equations based on the Universal Approximation Theorem of Operators](http://lululxvi.github.io/files/talks/2020JMM.pdf). *Joint Mathematics Meetings*, Denver, CO, Jan. 2020. (Oral Presentation)
+1. DeepXDE: A Deep Learning Library for Solving Forward and Inverse Differential Equations. *3<sup>rd</sup> Physics Informed Machine Learning Workshop*, Santa Fe, NM, Jan. 2020. ([Oral](http://lululxvi.github.io/files/talks/2020PIML.pdf) and [Poster](http://lululxvi.github.io/files/posters/2020PIML.pdf) Presentation)
 1. [DeepXDE: A Deep Learning Library for Solving Differential Equations](http://lululxvi.github.io/files/posters/2019NIPS.pdf). *Conference on Neural Information Processing Systems Workshop on Machine Learning and the Physical Sciences*, Vancouver, Canada, Dec. 2019. (Poster Presentation)
 1. [DeepXDE: A Deep Learning Library for Solving Differential Equations](http://lululxvi.github.io/files/posters/2019DL4Sci.pdf). *Deep Learning for Science School*, Berkeley, CA, Jul. 2019. (Poster Presentation)
 1. [Quantitative Prediction of Erythrocyte Sickling for Anti-polymerization Activities in Sickle Cell Disease](http://lululxvi.github.io/files/posters/2018rbc.pdf). *60<sup>th</sup> Annual Red Cell Meeting*, New Haven, CT, Oct. 2018. (Poster Presentation)
