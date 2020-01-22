@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- I gave a talk on Scientific Machine Learning at Argonne National Laboratory, Mathematics and Computer Science Division. (Jan 21, 2020)
 - I gave a talk on [DeepONet](https://arxiv.org/abs/1910.03193) at [JMM](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_wednesday.html). (Jan 15, 2020)
 - I gave a talk on [DeepXDE](https://arxiv.org/abs/1907.04502) at [Physics Informed Machine Learning Workshop](http://www.cvent.com/events/3rd-physics-informed-machine-learning/event-summary-f98f0383e62f4bc4a68c663f7b08d22d.aspx). (Jan 14, 2020)
 - [DeepXDE](https://arxiv.org/abs/1907.04502) was presented at NeurIPS workshop on [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/). (Dec 14, 2019)

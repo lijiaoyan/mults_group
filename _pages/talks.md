@@ -17,6 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
+1. Scientific Machine Learning. *Argonne National Laboratory, Mathematics and Computer Science Division*, Jan. 2020.
 1. Scientific Machine Learning. *University of Pittsburgh, Department of Mechanical Engineering and Materials Science*, Nov. 2019.
 1. Scientific Machine Learning. *University of North Carolina at Charlotte, Department of Mathematics and Statistics*, Nov. 2019.
 1. [Collapse of Deep and Narrow Neural Nets](http://lululxvi.github.io/files/talks/2019icerm.pdf). *ICERM Scientific Machine Learning*, Providence, RI, Jan. 2019. ([Video](https://icerm.brown.edu/video_archive/?play=1812))
