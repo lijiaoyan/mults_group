@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- I gave a talk on Scientific Machine Learning at Lawrence Livermore National Laboratory. (Feb 19, 2020)
 - I gave a talk on Scientific Machine Learning at Worcester Polytechnic Institute, Mathematical Sciences Department. (Feb 13, 2020)
 - I gave a talk on Scientific Machine Learning at Oak Ridge National Laboratory. (Jan 27, 2020)
 - I gave a talk on Scientific Machine Learning at Argonne National Laboratory, Mathematics and Computer Science Division. (Jan 21, 2020)

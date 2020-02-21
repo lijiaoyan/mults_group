@@ -17,6 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
+1. Scientific Machine Learning. *Lawrence Livermore National Laboratory*, Feb. 2020.
 1. Scientific Machine Learning. *Worcester Polytechnic Institute, Mathematical Sciences Department*, Feb. 2020.
 1. Scientific Machine Learning. *Oak Ridge National Laboratory*, Jan. 2020.
 1. Scientific Machine Learning. *Argonne National Laboratory, Mathematics and Computer Science Division*, Jan. 2020.
