@@ -8,6 +8,7 @@ author_profile: true
 - SIAM Student Travel Award, SIAM Conference on Mathematics of Data Science, 2020.
 - Conference Travel Fund, Brown University, 2020.
 - Travel Grant, Physics Informed Machine Learning Workshop, 2020.
+- Travel Support Award, Machine Learning and the Physical Sciences workshop (NeurIPS), 2019.
 - Open Graduate Education Travel Award, Brown University, 2019.
 - International Conference Travel Fund, Brown University, 2019.
 - Associate Member, Sigma Xi, 2018.
