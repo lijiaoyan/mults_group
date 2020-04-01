@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- David Gottlieb Memorial Award, Division of Applied Mathematics, Brown University, 2020.
 - SIAM Student Travel Award, SIAM Conference on Mathematics of Data Science, 2020.
 - Conference Travel Fund, Brown University, 2020.
 - Travel Grant, Physics Informed Machine Learning Workshop, 2020.
