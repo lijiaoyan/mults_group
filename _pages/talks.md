@@ -30,6 +30,7 @@ author_profile: true
 
 ## Conference Presentations
 
+1. DeepXDE: A Deep Learning Library for Solving Differential Equations. *AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences*, Stanford, CA, Mar. 2020. ([Slides](http://lululxvi.github.io/files/talks/2020AAAI.pdf) and [Video](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13))
 1. DeepXDE: A Deep Learning Library for Solving Forward and Inverse Differential Equations. *3<sup>rd</sup> Physics Informed Machine Learning Workshop*, Santa Fe, NM, Jan. 2020. ([Oral](http://lululxvi.github.io/files/talks/2020PIML.pdf) and [Poster](http://lululxvi.github.io/files/posters/2020PIML.pdf) Presentation)
 1. [DeepXDE: A Deep Learning Library for Solving Differential Equations](http://lululxvi.github.io/files/posters/2019NIPS.pdf). *Conference on Neural Information Processing Systems Workshop on Machine Learning and the Physical Sciences*, Vancouver, Canada, Dec. 2019. (Poster Presentation)
 1. [DeepXDE: A Deep Learning Library for Solving Differential Equations](http://lululxvi.github.io/files/posters/2019DL4Sci.pdf). *Deep Learning for Science School*, Berkeley, CA, Jul. 2019. (Poster Presentation)

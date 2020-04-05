@@ -44,4 +44,5 @@ author_profile: true
 
 ## Workshop Papers
 
+1. **Lu, L.**, Meng, X., Mao, Z., & Karniadakis, G. E. (2020). [DeepXDE: A Deep Learning Library for Solving Differential Equations](http://ceur-ws.org/Vol-2587/article_14.pdf). *AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences*.
 1. **Lu, L.**, Meng, X., Mao, Z., & Karniadakis, G. E. (2019). [DeepXDE: A Deep Learning Library for Solving Differential Equations](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_2.pdf). *Conference on Neural Information Processing Systems Workshop on Machine Learning and the Physical Sciences*.

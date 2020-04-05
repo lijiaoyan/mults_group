@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ======
 
+- I gave a [talk](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13) on DeepXDE at [AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences](https://sites.google.com/view/aaai-mlps). (Mar 24, 2020)
 - Paper about multi-fidelity neural networks for inverse indentation problems published in [PNAS](https://www.pnas.org/content/117/13/7052.short). (Mar 16, 2020)
 - [MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316). (Mar 16, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Berkeley National Laboratory, Computing Sciences. (Mar 9, 2020)
