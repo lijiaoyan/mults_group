@@ -21,9 +21,11 @@ Upcoming talks
 Recent news
 ======
 
+- [Brown News](https://www.brown.edu/news/2020-03-27/indentation): Machine learning improves non-destructive materials testing. (Mar 27, 2020)
 - I gave a [talk](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13) on DeepXDE at [AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences](https://sites.google.com/view/aaai-mlps). (Mar 24, 2020)
 - Paper about multi-fidelity neural networks for inverse indentation problems published in [PNAS](https://www.pnas.org/content/117/13/7052.short). (Mar 16, 2020)
-- [MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316). (Mar 16, 2020)
+- [NTU News](http://news.ntu.edu.sg/news/Pages/NR2020_Mar17.aspx): ​Machine learning technique sharpens prediction of material's mechanical properties. (Mar 16, 2020)
+- [MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316): Deep learning for mechanical property evaluation. (Mar 16, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Berkeley National Laboratory, Computing Sciences. (Mar 9, 2020)
 - [SIAM News article](https://sinews.siam.org/Details-Page/in-silico-medicine-advances-the-development-of-sickle-cell-disease-therapies) highlights our work on sickle cell disease. (Mar 2, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Livermore National Laboratory. (Feb 19, 2020)
@@ -42,6 +44,9 @@ Recent news
 - [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug 21, 2019)
 - [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (Jul 10, 2019)
 - The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
+
+<!--
 - [Paper about the generalization error in deep learning](https://arxiv.org/abs/1905.11427) was uploaded to arXiv. (May 27, 2019)
 - [Paper about the dying ReLU problem](https://arxiv.org/abs/1903.06733) was uploaded to arXiv. (Mar 15, 2019)
 - I gave a talk on [collapse of deep and narrow neural nets](https://icerm.brown.edu/video_archive/?play=1812) in [ICERM Scientific Machine Learning](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview). (Jan 28 -- 30, 2019)
+-->
