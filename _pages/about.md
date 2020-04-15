@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ======
 
+- I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/awards/joukowsky-outstanding-dissertation-prize) from Brown University. (Apr 15, 2020)
+- I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr 1, 2020)
 - [Brown News](https://www.brown.edu/news/2020-03-27/indentation): Machine learning improves non-destructive materials testing. (Mar 27, 2020)
 - I gave a [talk](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13) on DeepXDE at [AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences](https://sites.google.com/view/aaai-mlps). (Mar 24, 2020)
 - Paper about multi-fidelity neural networks for inverse indentation problems published in [PNAS](https://www.pnas.org/content/117/13/7052.short). (Mar 16, 2020)
