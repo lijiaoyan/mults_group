@@ -17,6 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
+1. Physics-informed deep learning. *Emory University, Scientific Computing Group*, Apr. 2020.
 1. Scientific machine learning. *Lawrence Berkeley National Laboratory, Computing Sciences*, Mar. 2020.
 1. Scientific machine learning. *Lawrence Livermore National Laboratory*, Feb. 2020.
 1. Scientific machine learning. *Worcester Polytechnic Institute, Mathematical Sciences Department*, Feb. 2020.

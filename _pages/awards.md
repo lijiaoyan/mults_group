@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/awards/joukowsky-outstanding-dissertation-prize), Brown University, 2020. (top 4 students per year)
+- [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/awards/joukowsky-outstanding-dissertation-prize), Brown University, 2020. (the most prestigious Ph.D. award at Brown; 4 students per year)
 - [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards), Division of Applied Mathematics, Brown University, 2020. (1 student in the division)
 - SIAM Student Travel Award, SIAM Conference on Mathematics of Data Science, 2020.
 - Conference Travel Fund, Brown University, 2020.
