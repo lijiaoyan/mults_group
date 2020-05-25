@@ -9,8 +9,14 @@ author_profile: true
 - [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards), Division of Applied Mathematics, Brown University, 2020. (1 student in the division)
 - Full Member, Sigma Xi, 2020.
 - SIAM Student Travel Award, SIAM Conference on Mathematics of Data Science, 2020.
+- Luis W. Alvarez Fellowship, Lawrence Berkeley National Laboratory, 2020. (declined)
+- Lawrence Fellowship, Lawrence Livermore National Laboratory, 2020. (declined)
+- Stephen Timoshenko Fellowship, Stanford University, 2020. (declined)
+- Eugene P. Wigner Fellowship, Oak Ridge National Laboratory, 2020. (declined)
+- J. H. Wilkinson Fellowship, Argonne National Laboratory, 2020. (declined)
 - Conference Travel Fund, Brown University, 2020.
 - Travel Grant, Physics Informed Machine Learning Workshop, 2020.
+- J. Robert Oppenheimer Fellowship, Los Alamos National Laboratory, 2019. (declined)
 - Travel Support Award, Machine Learning and the Physical Sciences workshop (NeurIPS), 2019.
 - Open Graduate Education Travel Award, Brown University, 2019.
 - International Conference Travel Fund, Brown University, 2019.
