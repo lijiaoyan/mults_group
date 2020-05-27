@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<sup>\*</sup>Contributed equally
+- [Google Scholar](https://scholar.google.com/citations?user=wD_wsWUAAAAJ&hl=en)
+- <sup>\*</sup>Contributed equally
 
 ## Preprints
 

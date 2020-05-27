@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I received my Ph.D. in [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics) at [Brown University](https://www.brown.edu/), working with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis).
-- Before joining Brown, I received my B.Eng. degree in [Department of Thermal Engineering](https://www.tsinghua.edu.cn/publish/teen/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn) in 2013.
+- Before joining Brown, I received my B.Eng. degree in [Department of Thermal Engineering](http://www.te.tsinghua.edu.cn/publish/teen/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn) in 2013.
 - My current research interests are on scientific machine learning and deep learning theory. My broad research interests focus on computational biology and high performance computing.
 - [Curriculum Vitae](http://lululxvi.github.io/files/CV.pdf)
 
