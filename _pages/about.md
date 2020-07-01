@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ======
 
+- I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
+- I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
 - I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 - I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr 24, 2020)
 - I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr 1, 2020)
@@ -46,9 +48,9 @@ Recent news
 - News on [Brown News](https://www.brown.edu/news/2019-08-22/sicklecell) and [eHealthNews.eu](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs). (Aug 22, 2019)
 - [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug 21, 2019)
 - [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (Jul 10, 2019)
-- The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
 
 <!--
+- The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (Jun 12, 2019)
 - [Paper about the generalization error in deep learning](https://arxiv.org/abs/1905.11427) was uploaded to arXiv. (May 27, 2019)
 - [Paper about the dying ReLU problem](https://arxiv.org/abs/1903.06733) was uploaded to arXiv. (Mar 15, 2019)
 - I gave a talk on [collapse of deep and narrow neural nets](https://icerm.brown.edu/video_archive/?play=1812) in [ICERM Scientific Machine Learning](https://icerm.brown.edu/events/ht19-1-sml/#workshopoverview). (Jan 28 -- 30, 2019)

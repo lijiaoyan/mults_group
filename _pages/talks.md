@@ -17,6 +17,8 @@ author_profile: true
 
 ## Invited Talks
 
+1. DeepONet: Learning nonlinear operators based on the universal approximation theorem of operators. *SIAM Conference on Mathematics of Data Science*, Jun. 2020. ([Slides](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf) and [Video](https://siam9-my.sharepoint.com/:f:/g/personal/moore_siam_org/EozlWBNiYY9Alq_4TdmXwjgBBkTubUjgbHc5T_XGSxe0og))
+1. DeepXDE: A deep learning library for solving differential equations. *SIAM Conference on Mathematics of Data Science*, Jun. 2020. ([Slides](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS70.pdf) and [Video](https://www.youtube.com/watch?v=bvL5T6DANwg&list=LLh3X9odDeghdrEfyyQU2MUw&index=2&t=6945s))
 1. Physics-informed deep learning. *Emory University, Scientific Computing Group*, Apr. 2020.
 1. Scientific machine learning. *Lawrence Berkeley National Laboratory, Computing Sciences*, Mar. 2020.
 1. Scientific machine learning. *Lawrence Livermore National Laboratory*, Feb. 2020.
