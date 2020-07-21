@@ -19,8 +19,9 @@ Upcoming talks
 -->
 
 Recent news
-======
+===========
 
+- I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
 - Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 - I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
@@ -48,9 +49,9 @@ Recent news
 - Paper about [DeepONets](https://arxiv.org/abs/1910.03193) to learn operators was uploaded to arXiv. (Oct. 8, 2019)
 - News on [Brown News](https://www.brown.edu/news/2019-08-22/sicklecell) and [eHealthNews.eu](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs). (Aug. 22, 2019)
 - [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug. 21, 2019)
-- [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (July 10, 2019)
 
 <!--
+- [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (July 10, 2019)
 - The first stable version of [DeepXDE](https://github.com/lululxvi/deepxde) (a deep learning library for solving differential equations) was released. (June 12, 2019)
 - [Paper about the generalization error in deep learning](https://arxiv.org/abs/1905.11427) was uploaded to arXiv. (May 27, 2019)
 - [Paper about the dying ReLU problem](https://arxiv.org/abs/1903.06733) was uploaded to arXiv. (Mar. 15, 2019)
