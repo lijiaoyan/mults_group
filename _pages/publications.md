@@ -20,6 +20,7 @@ author_profile: true
 
 ## Preprints
 
+1. A. Yazdani<sup>\*</sup>, **L. Lu**<sup>\*</sup>, M. Raissi, & G. E. Karniadakis. [Systems biology informed deep learning for inferring parameters and hidden dynamics](https://doi.org/10.1101/865063). *bioRxiv*, 865063, 2020.
 1. **L. Lu**, P. Jin, & G. E. Karniadakis. [DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators](https://arxiv.org/abs/1910.03193). *arXiv preprint arXiv:1910.03193*, 2019.
 1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://arxiv.org/abs/1907.04502). *arXiv preprint arXiv:1907.04502*, 2019.
 1. **L. Lu**<sup>\*</sup>, Y. Shin<sup>\*</sup>, Y. Su, & G. E. Karniadakis. [Dying ReLU and initialization: Theory and numerical examples](https://arxiv.org/abs/1903.06733). *arXiv preprint arXiv:1903.06733*, 2019.

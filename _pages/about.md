@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
 - I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
 - Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
