@@ -13,6 +13,7 @@ author_profile: true
 
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
   - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
+  - [Journal of Scientific Computing](https://www.springer.com/journal/10915)
   - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
   - [Multiscale Modeling & Simulation](https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms)
   - [Computers in Biology and Medicine](https://www.journals.elsevier.com/computers-in-biology-and-medicine)
