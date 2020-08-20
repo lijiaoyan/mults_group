@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lu Lu"
 title_separator          : "-"
 name                     : &name "Lu Lu"
-description              : &description "Ph.D., Division of Applied Mathematics, Brown University"
+description              : &description "Applied Mathematics Instructor, Department of Mathematics, Massachusetts Institute of Technology"
 url                      : https://lululxvi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lululxvi/lululxvi.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lu Lu"
   avatar           : "lulu.jpg"
-  bio              : "Ph.D., Division of Applied Mathematics, Brown University"
-  location         : "Providence, Rhode Island"
+  bio              : "Applied Mathematics Instructor, Department of Mathematics, Massachusetts Institute of Technology"
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wD_wsWUAAAAJ&hl=en"
-  email            : "lu_lu_1@brown.edu"
+  email            : "lu_lu@mit.edu"
   researchgate     : "https://www.researchgate.net/profile/Lu_Lu93"
   uri              :
   bitbucket        :
