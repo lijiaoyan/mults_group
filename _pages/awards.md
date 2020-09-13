@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- Chinese Government Award for Outstanding Self-Financed Students Abroad, 2020. (500 students per year)
+- Chinese Government Award for Outstanding Self-financed Students Abroad, 2020. (500 Ph.D. students each year all over the world)
 - [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes), Brown University, 2020. (the most prestigious Ph.D. award at Brown; 4 students per year)
 - [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards), Division of Applied Mathematics, Brown University, 2020. (1 student in the division)
 - Full Member, Sigma Xi, 2020.
