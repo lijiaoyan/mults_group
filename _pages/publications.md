@@ -22,12 +22,12 @@ author_profile: true
 
 1. A. Yazdani<sup>\*</sup>, **L. Lu**<sup>\*</sup>, M. Raissi, & G. E. Karniadakis. [Systems biology informed deep learning for inferring parameters and hidden dynamics](https://doi.org/10.1101/865063). *bioRxiv*, 865063, 2020.
 1. **L. Lu**, P. Jin, & G. E. Karniadakis. [DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators](https://arxiv.org/abs/1910.03193). *arXiv preprint arXiv:1910.03193*, 2019.
-1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://arxiv.org/abs/1907.04502). *arXiv preprint arXiv:1907.04502*, 2019.
 1. **L. Lu**<sup>\*</sup>, Y. Shin<sup>\*</sup>, Y. Su, & G. E. Karniadakis. [Dying ReLU and initialization: Theory and numerical examples](https://arxiv.org/abs/1903.06733). *arXiv preprint arXiv:1903.06733*, 2019.
 1. **L. Lu**, Y. Su, & G. E. Karniadakis. [Collapse of deep and narrow neural nets](https://arxiv.org/abs/1808.04947). *arXiv preprint arXiv:1808.04947*, 2018.
 
 ## Journal Papers
 
+1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://arxiv.org/abs/1907.04502). *SIAM Review*, accepted.
 1. P. Jin<sup>\*</sup>, **L. Lu**<sup>\*</sup>, Y. Tang, & G. E. Karniadakis. [Quantifying the generalization error in deep learning in terms of data distribution and neural network smoothness](https://doi.org/10.1016/j.neunet.2020.06.024). *Neural Networks*, 130, 85--99, 2020.
 1. Y. Chen, **L. Lu**, G. E. Karniadakis, & L. D. Negro. [Physics-informed neural networks for inverse problems in nano-optics and metamaterials](https://doi.org/10.1364/OE.384875). *Optics Express*, 28(8), 11618--11633, 2020.
 1. **L. Lu**<sup>\*</sup>, M. Dao<sup>\*</sup>, P. Kumar, U. Ramamurty, G. E. Karniadakis, & S. Suresh. [Extraction of mechanical properties of materials through deep learning from instrumented indentation](https://doi.org/10.1073/pnas.1922210117 ). *Proceedings of the National Academy of Sciences*, 117(13), 7052--7062, 2020. ([MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316), [Brown News](https://www.brown.edu/news/2020-03-27/indentation), [NTU News](http://news.ntu.edu.sg/news/Pages/NR2020_Mar17.aspx))
