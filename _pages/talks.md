@@ -17,8 +17,8 @@ author_profile: true
 
 ## Invited Talks
 
-1. DeepONet: Learning nonlinear operators based on the universal approximation theorem of operators. *SIAM Conference on Mathematics of Data Science*, June 2020. ([Slides](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf) and [Video](https://siam9-my.sharepoint.com/:f:/g/personal/moore_siam_org/EozlWBNiYY9Alq_4TdmXwjgBBkTubUjgbHc5T_XGSxe0og))
-1. DeepXDE: A deep learning library for solving differential equations. *SIAM Conference on Mathematics of Data Science*, June 2020. ([Slides](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS70.pdf) and [Video](https://www.youtube.com/watch?v=bvL5T6DANwg&list=LLh3X9odDeghdrEfyyQU2MUw&index=2&t=6945s))
+1. [DeepONet: Learning nonlinear operators based on the universal approximation theorem of operators](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf). *SIAM Conference on Mathematics of Data Science*, June 2020. ([Video](https://siam9-my.sharepoint.com/:f:/g/personal/moore_siam_org/EozlWBNiYY9Alq_4TdmXwjgBBkTubUjgbHc5T_XGSxe0og))
+1. [DeepXDE: A deep learning library for solving differential equations](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS70.pdf). *SIAM Conference on Mathematics of Data Science*, June 2020. ([Video](https://www.youtube.com/watch?v=bvL5T6DANwg&list=LLh3X9odDeghdrEfyyQU2MUw&index=2&t=6945s))
 1. Physics-informed deep learning. *Emory University, Scientific Computing Group*, Apr. 2020.
 1. Scientific machine learning. *Lawrence Berkeley National Laboratory, Computing Sciences*, Mar. 2020.
 1. Scientific machine learning. *Lawrence Livermore National Laboratory*, Feb. 2020.
@@ -28,13 +28,13 @@ author_profile: true
 1. [DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators](http://lululxvi.github.io/files/talks/2020JMM.pdf). *Joint Mathematics Meetings*, Denver, CO, Jan. 2020.
 1. Scientific machine learning. *University of Pittsburgh, Department of Mechanical Engineering and Materials Science*, Nov. 2019.
 1. Scientific machine learning. *University of North Carolina at Charlotte, Department of Mathematics and Statistics*, Nov. 2019.
-1. Collapse of deep and narrow neural nets. *ICERM Scientific Machine Learning*, Providence, RI, Jan. 2019. ([Slides](http://lululxvi.github.io/files/talks/2019icerm.pdf) and [Video](https://icerm.brown.edu/video_archive/?play=1812))
+1. [Collapse of deep and narrow neural nets](http://lululxvi.github.io/files/talks/2019icerm.pdf). *ICERM Scientific Machine Learning*, Providence, RI, Jan. 2019. ([Video](https://icerm.brown.edu/video_archive/?play=1812))
 1. [OpenRBC: A fast simulator of red blood cells at protein resolution](http://lululxvi.github.io/files/talks/2017siam.pdf). *SIAM Annual Meeting*, Pittsburgh, PA, July 2017.
 
 ## Conference Presentations
 
-1. DeepXDE: A deep learning library for solving differential equations. *AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences*, Stanford, CA, Mar. 2020. ([Slides](http://lululxvi.github.io/files/talks/2020AAAI.pdf) and [Video](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13))
-1. DeepXDE: A deep learning library for solving forward and inverse differential equations. *3<sup>rd</sup> Physics Informed Machine Learning Workshop*, Santa Fe, NM, Jan. 2020. ([Slides](http://lululxvi.github.io/files/talks/2020PIML.pdf) and [Poster](http://lululxvi.github.io/files/posters/2020PIML.pdf))
+1. [DeepXDE: A deep learning library for solving differential equations](http://lululxvi.github.io/files/talks/2020AAAI.pdf). *AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences*, Stanford, CA, Mar. 2020. ([Video](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13))
+1. [DeepXDE: A deep learning library for solving forward and inverse differential equations](http://lululxvi.github.io/files/talks/2020PIML.pdf). *3<sup>rd</sup> Physics Informed Machine Learning Workshop*, Santa Fe, NM, Jan. 2020. ([Poster](http://lululxvi.github.io/files/posters/2020PIML.pdf))
 1. [DeepXDE: A deep learning library for solving differential equations](http://lululxvi.github.io/files/posters/2019NIPS.pdf). *Conference on Neural Information Processing Systems Workshop on Machine Learning and the Physical Sciences*, Vancouver, Canada, Dec. 2019. (Poster Presentation)
 1. [DeepXDE: A deep learning library for solving differential equations](http://lululxvi.github.io/files/posters/2019DL4Sci.pdf). *Deep Learning for Science School*, Berkeley, CA, July 2019. (Poster Presentation)
 1. [Quantitative prediction of erythrocyte sickling for anti-polymerization activities in sickle cell disease](http://lululxvi.github.io/files/posters/2018rbc.pdf). *60<sup>th</sup> Annual Red Cell Meeting*, New Haven, CT, Oct. 2018. (Poster Presentation)
