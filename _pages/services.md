@@ -12,6 +12,7 @@ author_profile: true
 - Journal Reviewer:
 
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+  - [SIAM Journal on Scientific Computing](https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc)
   - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
   - [Journal of Scientific Computing](https://www.springer.com/journal/10915)
   - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
