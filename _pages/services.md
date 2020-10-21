@@ -24,6 +24,6 @@ author_profile: true
 
 - Conference Reviewer:
 
-  - [Conference on Neural Information Processing Systems](https://nips.cc/) (2019)
+  - [Conference on Neural Information Processing Systems](https://nips.cc/) (2019, 2020)
   - [International Conference on Machine Learning](https://icml.cc/) (2020)
   - [Mathematical and Scientific Machine Learning](http://www.smartchair.org/hp/MSML2020) (2020)
