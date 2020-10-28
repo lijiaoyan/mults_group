@@ -26,4 +26,5 @@ author_profile: true
 
   - [Conference on Neural Information Processing Systems](https://nips.cc/) (2019, 2020)
   - [International Conference on Machine Learning](https://icml.cc/) (2020)
+  - [International Conference on Learning Representations](https://iclr.cc/) (2021)
   - [Mathematical and Scientific Machine Learning](http://www.smartchair.org/hp/MSML2020) (2020)
