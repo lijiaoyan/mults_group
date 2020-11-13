@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- We developed [DeepM&Mnet for hypersonics](https://arxiv.org/abs/2011.03349). (Nov. 1, 2020)
 - We developed [DeepM&Mnet](https://arxiv.org/abs/2009.12935) to build multiphysics & multiscale models in a plug-and-play mode using pretrained [DeepONets](https://arxiv.org/abs/1910.03193) that approximate nonlinear operators. (Sept. 28, 2020)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
 - I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
@@ -47,10 +48,9 @@ Recent news
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in nano-optics and metamaterials, see our paper on [arXiv](https://arxiv.org/abs/1912.01085). (Dec. 2, 2019)
 - I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov. 21, 2019)
 - I gave a talk on Scientific Machine Learning at University of North Carolina at Charlotte, Department of Mathematics and Statistics. (Nov. 18, 2019)
+<!--
 - News on [Brown Daily Herald](http://www.browndailyherald.com/2019/10/30/university-researchers-develop-computer-model-design-drugs-sickle-cell/). (Oct. 30, 2019)
 - Paper about [DeepONets](https://arxiv.org/abs/1910.03193) to learn operators was uploaded to arXiv. (Oct. 8, 2019)
-
-<!--
 - News on [Brown News](https://www.brown.edu/news/2019-08-22/sicklecell) and [eHealthNews.eu](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs). (Aug. 22, 2019)
 - [Our model to gauge efficacy of new treatments for sickle cell disease](https://advances.sciencemag.org/content/5/8/eaax3905) was published on *Science Advances*. (Aug. 21, 2019)
 - [Paper of DeepXDE](https://arxiv.org/abs/1907.04502) was uploaded to arXiv. (July 10, 2019)
