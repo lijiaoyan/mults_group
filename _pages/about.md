@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ===========
 
+- Our paper on PINN for systems biology was published in [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1007575). (Nov. 18, 2020)
+- Our paper on dying ReLU was published in [Communications in Computational Physics](https://doi.org/10.4208/cicp.OA-2020-0165). (Nov. 18, 2020)
 - We developed [DeepM&Mnet for hypersonics](https://arxiv.org/abs/2011.03349). (Nov. 1, 2020)
 - We developed [DeepM&Mnet](https://arxiv.org/abs/2009.12935) to build multiphysics & multiscale models in a plug-and-play mode using pretrained [DeepONets](https://arxiv.org/abs/1910.03193) that approximate nonlinear operators. (Sept. 28, 2020)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
