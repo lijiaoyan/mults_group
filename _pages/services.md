@@ -20,6 +20,7 @@ author_profile: true
   - [Multiscale Modeling & Simulation](https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms)
   - [Computers in Biology and Medicine](https://www.journals.elsevier.com/computers-in-biology-and-medicine)
   - [European Journal of Applied Mathematics](https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics)
+  - [Journal of Materials Research](https://www.springer.com/journal/43578)
   - [Journal of Eye Study and Treatment](https://ocimumpublishers.com/journal/eye-study-treatment)
   - [International Journal of Blood Research and Disorders](https://www.clinmedjournals.org/International-Journal-of-Blood-Research-and-Disorders.php?jid=ijbrd)
 
