@@ -46,11 +46,12 @@ Recent news
 - I gave a talk on Scientific Machine Learning at Argonne National Laboratory, Mathematics and Computer Science Division. (Jan. 21, 2020)
 - I gave a talk on [DeepONet](https://arxiv.org/abs/1910.03193) at [JMM](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_wednesday.html). (Jan. 15, 2020)
 - I gave a talk on [DeepXDE](https://arxiv.org/abs/1907.04502) at [Physics Informed Machine Learning Workshop](http://www.cvent.com/events/3rd-physics-informed-machine-learning/event-summary-f98f0383e62f4bc4a68c663f7b08d22d.aspx). (Jan. 14, 2020)
+
+<!--
 - [DeepXDE](https://arxiv.org/abs/1907.04502) was presented at NeurIPS workshop on [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/). (Dec. 14, 2019)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in nano-optics and metamaterials, see our paper on [arXiv](https://arxiv.org/abs/1912.01085). (Dec. 2, 2019)
 - I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov. 21, 2019)
 - I gave a talk on Scientific Machine Learning at University of North Carolina at Charlotte, Department of Mathematics and Statistics. (Nov. 18, 2019)
-<!--
 - News on [Brown Daily Herald](http://www.browndailyherald.com/2019/10/30/university-researchers-develop-computer-model-design-drugs-sickle-cell/). (Oct. 30, 2019)
 - Paper about [DeepONets](https://arxiv.org/abs/1910.03193) to learn operators was uploaded to arXiv. (Oct. 8, 2019)
 - News on [Brown News](https://www.brown.edu/news/2019-08-22/sicklecell) and [eHealthNews.eu](http://www.ehealthnews.eu/research/5923-computer-model-could-help-test-new-sickle-cell-drugs). (Aug. 22, 2019)
