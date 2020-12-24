@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- We used [DeepONet for predicting multiscale bubble growth dynamics](https://arxiv.org/abs/2012.12816). (Dec. 23, 2020)
 - Our paper on PINN for systems biology was published in [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1007575). (Nov. 18, 2020)
 - Our paper on dying ReLU was published in [Communications in Computational Physics](https://doi.org/10.4208/cicp.OA-2020-0165). (Nov. 18, 2020)
 - We developed [DeepM&Mnet for hypersonics](https://arxiv.org/abs/2011.03349). (Nov. 1, 2020)

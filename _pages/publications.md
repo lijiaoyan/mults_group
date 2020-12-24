@@ -20,6 +20,7 @@ author_profile: true
 
 ## Preprints
 
+1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://arxiv.org/abs/2012.12816). *arXiv preprint arXiv:2012.12816*, 2020.
 1. Z. Mao, **L. Lu**, O. Marxen, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators](https://arxiv.org/abs/2011.03349). *arXiv preprint arXiv:2011.03349*, 2020.
 1. S. Cai, Z. Wang, **L. Lu**, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks](https://arxiv.org/abs/2009.12935). *arXiv preprint arXiv:2009.12935*, 2020.
 <!-- 1. **L. Lu**, Y. Su, & G. E. Karniadakis. [Collapse of deep and narrow neural nets](https://arxiv.org/abs/1808.04947). *arXiv preprint arXiv:1808.04947*, 2018. -->
