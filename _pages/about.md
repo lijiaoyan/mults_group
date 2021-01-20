@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- Our [systems-biology PINN](https://doi.org/10.1371/journal.pcbi.1007575) is highlighted on [Nature Computational Science](https://doi.org/10.1038/s43588-020-00020-9). (Jan. 14, 2021)
 - We used [DeepONet for predicting multiscale bubble growth dynamics](https://arxiv.org/abs/2012.12816). (Dec. 23, 2020)
 - Our paper on PINN for systems biology was published in [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1007575). (Nov. 18, 2020)
 - Our paper on dying ReLU was published in [Communications in Computational Physics](https://doi.org/10.4208/cicp.OA-2020-0165). (Nov. 18, 2020)
@@ -45,10 +46,10 @@ Recent news
 - I gave a talk on Scientific Machine Learning at Worcester Polytechnic Institute, Mathematical Sciences Department. (Feb. 13, 2020)
 - I gave a talk on Scientific Machine Learning at Oak Ridge National Laboratory. (Jan. 27, 2020)
 - I gave a talk on Scientific Machine Learning at Argonne National Laboratory, Mathematics and Computer Science Division. (Jan. 21, 2020)
-- I gave a talk on [DeepONet](https://arxiv.org/abs/1910.03193) at [JMM](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_wednesday.html). (Jan. 15, 2020)
-- I gave a talk on [DeepXDE](https://arxiv.org/abs/1907.04502) at [Physics Informed Machine Learning Workshop](http://www.cvent.com/events/3rd-physics-informed-machine-learning/event-summary-f98f0383e62f4bc4a68c663f7b08d22d.aspx). (Jan. 14, 2020)
 
 <!--
+- I gave a talk on [DeepONet](https://arxiv.org/abs/1910.03193) at [JMM](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_wednesday.html). (Jan. 15, 2020)
+- I gave a talk on [DeepXDE](https://arxiv.org/abs/1907.04502) at [Physics Informed Machine Learning Workshop](http://www.cvent.com/events/3rd-physics-informed-machine-learning/event-summary-f98f0383e62f4bc4a68c663f7b08d22d.aspx). (Jan. 14, 2020)
 - [DeepXDE](https://arxiv.org/abs/1907.04502) was presented at NeurIPS workshop on [Machine Learning and the Physical Sciences](https://ml4physicalsciences.github.io/). (Dec. 14, 2019)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in nano-optics and metamaterials, see our paper on [arXiv](https://arxiv.org/abs/1912.01085). (Dec. 2, 2019)
 - I gave a talk on Scientific Machine Learning at University of Pittsburgh, Department of Mechanical Engineering and Materials Science. (Nov. 21, 2019)
