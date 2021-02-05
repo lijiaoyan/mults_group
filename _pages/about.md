@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- I gave a talk on machine learning & multiscale modeling at University of Pennsylvania, Department of Chemical and Biomolecular Engineering. (Feb. 3, 2021)
 - Our [systems-biology PINN](https://doi.org/10.1371/journal.pcbi.1007575) is highlighted on [Nature Computational Science](https://doi.org/10.1038/s43588-020-00020-9). (Jan. 14, 2021)
 - We used [DeepONet for predicting multiscale bubble growth dynamics](https://arxiv.org/abs/2012.12816). (Dec. 23, 2020)
 - Our paper on PINN for systems biology was published in [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1007575). (Nov. 18, 2020)

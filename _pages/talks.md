@@ -17,6 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
+1. Integrating machine learning & multiscale modeling in biomedicine. *University of Pennsylvania, Department of Chemical and Biomolecular Engineering*, Feb. 2021.
 1. [DeepONet: Learning nonlinear operators based on the universal approximation theorem of operators](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf). *SIAM Conference on Mathematics of Data Science*, June 2020. ([Video](https://siam9-my.sharepoint.com/:f:/g/personal/moore_siam_org/EozlWBNiYY9Alq_4TdmXwjgBBkTubUjgbHc5T_XGSxe0og))
 1. [DeepXDE: A deep learning library for solving differential equations](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS70.pdf). *SIAM Conference on Mathematics of Data Science*, June 2020. ([Video](https://www.youtube.com/watch?v=bvL5T6DANwg&list=LLh3X9odDeghdrEfyyQU2MUw&index=2&t=6945s))
 1. Physics-informed deep learning. *Emory University, Scientific Computing Group*, Apr. 2020.
