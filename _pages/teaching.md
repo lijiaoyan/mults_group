@@ -13,6 +13,7 @@ author_profile: true
 
 ## Massachusetts Institute of Technology
 
+- Instructor, 18.085 Computational Science and Engineering I, Spring 2021
 - Recitation Instructor, 18.02 Multivariable Calculus, Fall 2020
 
 ## Brown University
