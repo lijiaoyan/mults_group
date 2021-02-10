@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ===========
 
+- I gave a talk on machine learning & multiscale modeling at Queen's University, Department of Mechanical and Material Engineering. (Feb. 10, 2021)
+- We developed [hPINN](https://arxiv.org/abs/2102.04626) for inverse design/topology optimization. (Feb. 9, 2021)
 - Our paper on DeepXDE was published in [SIAM Review](https://doi.org/10.1137/19M1274067). (Feb. 4, 2021)
 - I gave a talk on machine learning & multiscale modeling at University of Pennsylvania, Department of Chemical and Biomolecular Engineering. (Feb. 3, 2021)
 - Our [systems-biology PINN](https://doi.org/10.1371/journal.pcbi.1007575) is highlighted on [Nature Computational Science](https://doi.org/10.1038/s43588-020-00020-9). (Jan. 14, 2021)
