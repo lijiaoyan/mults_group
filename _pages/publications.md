@@ -20,6 +20,7 @@ author_profile: true
 
 ## Preprints
 
+1. B. Deng, Y. Shin, **L. Lu**, Z. Zhang, & G. E. Karniadakis. [Convergence rate of DeepONets for learning operators arising from advection-diffusion equations](https://arxiv.org/abs/2102.10621). *arXiv preprint arXiv:2102.10621*, 2021.
 1. **L. Lu**, R. Pestourie, W. Yao, Z. Wang, F. Verdugo, & S. G. Johnson. [Physics-informed neural networks with hard constraints for inverse design](https://arxiv.org/abs/2102.04626). *arXiv preprint arXiv:2102.04626*, 2021.
 1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://arxiv.org/abs/2012.12816). *arXiv preprint arXiv:2012.12816*, 2020.
 1. Z. Mao, **L. Lu**, O. Marxen, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators](https://arxiv.org/abs/2011.03349). *arXiv preprint arXiv:2011.03349*, 2020.

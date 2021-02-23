@@ -17,6 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
+1. Integrating machine learning & multiscale modeling. *Purdue University, Department of Mathematics*, Feb. 2021.
 1. Integrating machine learning & multiscale modeling in biomedicine. *Queen's University, Department of Mechanical and Material Engineering*, Feb. 2021. ([Video](https://www.youtube.com/watch?v=JXwLxE6VV4E))
 1. Integrating machine learning & multiscale modeling in biomedicine. *University of Pennsylvania, Department of Chemical and Biomolecular Engineering*, Feb. 2021.
 1. [DeepONet: Learning nonlinear operators based on the universal approximation theorem of operators](http://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf). *SIAM Conference on Mathematics of Data Science*, June 2020. ([Video](https://siam9-my.sharepoint.com/:f:/g/personal/moore_siam_org/EozlWBNiYY9Alq_4TdmXwjgBBkTubUjgbHc5T_XGSxe0og))
