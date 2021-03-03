@@ -8,6 +8,7 @@ author_profile: true
 - Minisymposium Organizer:
 
   - [SIAM Conference on Mathematics of Data Science -- Machine Learning for Physical Systems](https://www.siam.org/conferences/cm/conference/mds20) (2020)
+  - [SIAM Conference on Computational Science and Engineering -- Machine Learning for Physical Systems](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69798) (2021)
 
 - Journal Reviewer:
 

@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- I gave a talk on DeepONet at SIAM Conference on Computational Science and Engineering. (Mar. 3, 2021)
 - I gave a talk on machine learning & multiscale modeling at Purdue University, Department of Mathematics. (Feb. 22, 2021)
 - I gave a talk on machine learning & multiscale modeling at Queen's University, Department of Mechanical and Material Engineering. (Feb. 10, 2021)
 - We developed [hPINN](https://arxiv.org/abs/2102.04626) for inverse design/topology optimization. (Feb. 9, 2021)
@@ -46,11 +47,11 @@ Recent news
 - [NTU News](http://news.ntu.edu.sg/news/Pages/NR2020_Mar17.aspx): ​Machine learning technique sharpens prediction of material's mechanical properties. (Mar. 16, 2020)
 - [MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316): Deep learning for mechanical property evaluation. (Mar. 16, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Berkeley National Laboratory, Computing Sciences. (Mar. 9, 2020)
+
+<!--
 - [SIAM News article](https://sinews.siam.org/Details-Page/in-silico-medicine-advances-the-development-of-sickle-cell-disease-therapies) highlights our work on sickle cell disease. (Mar. 2, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Livermore National Laboratory. (Feb. 19, 2020)
 - I gave a talk on Scientific Machine Learning at Worcester Polytechnic Institute, Mathematical Sciences Department. (Feb. 13, 2020)
-
-<!--
 - I gave a talk on Scientific Machine Learning at Oak Ridge National Laboratory. (Jan. 27, 2020)
 - I gave a talk on Scientific Machine Learning at Argonne National Laboratory, Mathematics and Computer Science Division. (Jan. 21, 2020)
 - I gave a talk on [DeepONet](https://arxiv.org/abs/1910.03193) at [JMM](http://jointmathematicsmeetings.org/meetings/national/jmm2020/2245_program_wednesday.html). (Jan. 15, 2020)
