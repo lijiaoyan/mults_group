@@ -7,14 +7,15 @@ author_profile: true
 
 - Minisymposium Organizer:
 
-  - [SIAM Conference on Mathematics of Data Science -- Machine Learning for Physical Systems](https://www.siam.org/conferences/cm/conference/mds20) (2020)
   - [SIAM Conference on Computational Science and Engineering -- Machine Learning for Physical Systems](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69798) (2021)
+  - [SIAM Conference on Mathematics of Data Science -- Machine Learning for Physical Systems](https://www.siam.org/conferences/cm/conference/mds20) (2020)
 
 - Journal Reviewer:
 
+  - [Nature Computational Science](https://www.nature.com/natcomputsci/)
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
-  - [SIAM Journal on Scientific Computing](https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc)
   - [Computer Methods in Applied Mechanics and Engineering](https://www.journals.elsevier.com/computer-methods-in-applied-mechanics-and-engineering)
+  - [SIAM Journal on Scientific Computing](https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc)
   - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
   - [Journal of Scientific Computing](https://www.springer.com/journal/10915)
   - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
@@ -27,7 +28,7 @@ author_profile: true
 
 - Conference Reviewer:
 
-  - [Conference on Neural Information Processing Systems](https://nips.cc/) (2019, 2020)
-  - [International Conference on Machine Learning](https://icml.cc/) (2020)
-  - [International Conference on Learning Representations](https://iclr.cc/) (2021)
-  - [Mathematical and Scientific Machine Learning](http://www.smartchair.org/hp/MSML2020) (2020)
+  - [Conference on Neural Information Processing Systems](https://nips.cc/)
+  - [International Conference on Machine Learning](https://icml.cc/)
+  - [International Conference on Learning Representations](https://iclr.cc/)
+  - [Mathematical and Scientific Machine Learning](http://www.smartchair.org/hp/MSML2020)
