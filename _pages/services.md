@@ -20,6 +20,7 @@ author_profile: true
   - [Journal of Scientific Computing](https://www.springer.com/journal/10915)
   - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
   - [Multiscale Modeling & Simulation](https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms)
+  - [PLoS ONE](https://journals.plos.org/plosone/)
   - [Computers in Biology and Medicine](https://www.journals.elsevier.com/computers-in-biology-and-medicine)
   - [European Journal of Applied Mathematics](https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics)
   - [Journal of Materials Research](https://www.springer.com/journal/43578)
