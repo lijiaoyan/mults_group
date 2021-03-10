@@ -46,9 +46,9 @@ Recent news
 - Paper about multi-fidelity neural networks for inverse indentation problems published in [PNAS](https://www.pnas.org/content/117/13/7052.short). (Mar. 16, 2020)
 - [NTU News](http://news.ntu.edu.sg/news/Pages/NR2020_Mar17.aspx): ​Machine learning technique sharpens prediction of material's mechanical properties. (Mar. 16, 2020)
 - [MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316): Deep learning for mechanical property evaluation. (Mar. 16, 2020)
-- I gave a talk on Scientific Machine Learning at Lawrence Berkeley National Laboratory, Computing Sciences. (Mar. 9, 2020)
 
 <!--
+- I gave a talk on Scientific Machine Learning at Lawrence Berkeley National Laboratory, Computing Sciences. (Mar. 9, 2020)
 - [SIAM News article](https://sinews.siam.org/Details-Page/in-silico-medicine-advances-the-development-of-sickle-cell-disease-therapies) highlights our work on sickle cell disease. (Mar. 2, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Livermore National Laboratory. (Feb. 19, 2020)
 - I gave a talk on Scientific Machine Learning at Worcester Polytechnic Institute, Mathematical Sciences Department. (Feb. 13, 2020)

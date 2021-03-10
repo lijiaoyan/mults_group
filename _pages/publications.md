@@ -22,7 +22,6 @@ author_profile: true
 
 1. B. Deng, Y. Shin, **L. Lu**, Z. Zhang, & G. E. Karniadakis. [Convergence rate of DeepONets for learning operators arising from advection-diffusion equations](https://arxiv.org/abs/2102.10621). *arXiv preprint arXiv:2102.10621*, 2021.
 1. **L. Lu**, R. Pestourie, W. Yao, Z. Wang, F. Verdugo, & S. G. Johnson. [Physics-informed neural networks with hard constraints for inverse design](https://arxiv.org/abs/2102.04626). *arXiv preprint arXiv:2102.04626*, 2021.
-1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://arxiv.org/abs/2012.12816). *arXiv preprint arXiv:2012.12816*, 2020.
 1. Z. Mao, **L. Lu**, O. Marxen, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators](https://arxiv.org/abs/2011.03349). *arXiv preprint arXiv:2011.03349*, 2020.
 1. S. Cai, Z. Wang, **L. Lu**, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks](https://arxiv.org/abs/2009.12935). *arXiv preprint arXiv:2009.12935*, 2020.
 <!-- 1. **L. Lu**, Y. Su, & G. E. Karniadakis. [Collapse of deep and narrow neural nets](https://arxiv.org/abs/1808.04947). *arXiv preprint arXiv:1808.04947*, 2018. -->
@@ -31,6 +30,7 @@ author_profile: true
 
 1. **L. Lu**, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://arxiv.org/abs/1910.03193). *Nature Machine Intelligence*, to appear.
 1. G. E. Karniadakis, Y. Kevrekidis, **L. Lu**, P. Perdikaris, S. Wang, & L. Yang. A perspective on physics-informed machine learning. *Nature Reviews Physics*, to appear, invited.
+1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://doi.org/10.1063/5.0041203). *The Journal of Chemical Physics*, 154(10), 104118, 2021.
 1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://doi.org/10.1137/19M1274067). *SIAM Review*, 63(1), 208--228, 2021.
 1. A. Yazdani<sup>\*</sup>, **L. Lu**<sup>\*</sup>, M. Raissi, & G. E. Karniadakis. [Systems biology informed deep learning for inferring parameters and hidden dynamics](https://doi.org/10.1371/journal.pcbi.1007575). *PLoS Computational Biology*, 16(11), e1007575, 2020. (**Highlighted on [*Nature Computational Science*, 1, 16, 2021](https://doi.org/10.1038/s43588-020-00020-9)**)
 1. **L. Lu**<sup>\*</sup>, Y. Shin<sup>\*</sup>, Y. Su, & G. E. Karniadakis. [Dying ReLU and initialization: Theory and numerical examples](https://doi.org/10.4208/cicp.OA-2020-0165). *Communications in Computational Physics*, 28(5), 1671--1706, 2020.
