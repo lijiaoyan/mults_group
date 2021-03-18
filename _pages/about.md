@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- DeepONet was published in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-021-00302-5), and also see the [News article](https://doi.org/10.1038/s42256-021-00318-x). (Mar. 18, 2021)
 - I gave a talk on DeepONet at SIAM Conference on Computational Science and Engineering. (Mar. 3, 2021)
 - I gave a talk on machine learning & multiscale modeling at Purdue University, Department of Mathematics. (Feb. 22, 2021)
 - I gave a talk on machine learning & multiscale modeling at Queen's University, Department of Mechanical and Material Engineering. (Feb. 10, 2021)
@@ -43,11 +44,11 @@ Recent news
 - I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)
 - [Brown News](https://www.brown.edu/news/2020-03-27/indentation): Machine learning improves non-destructive materials testing. (Mar. 27, 2020)
 - I gave a [talk](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13) on DeepXDE at [AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences](https://sites.google.com/view/aaai-mlps). (Mar. 24, 2020)
+
+<!--
 - Paper about multi-fidelity neural networks for inverse indentation problems published in [PNAS](https://www.pnas.org/content/117/13/7052.short). (Mar. 16, 2020)
 - [NTU News](http://news.ntu.edu.sg/news/Pages/NR2020_Mar17.aspx): ​Machine learning technique sharpens prediction of material's mechanical properties. (Mar. 16, 2020)
 - [MIT News](http://news.mit.edu/2020/deep-learning-mechanical-property-metallic-0316): Deep learning for mechanical property evaluation. (Mar. 16, 2020)
-
-<!--
 - I gave a talk on Scientific Machine Learning at Lawrence Berkeley National Laboratory, Computing Sciences. (Mar. 9, 2020)
 - [SIAM News article](https://sinews.siam.org/Details-Page/in-silico-medicine-advances-the-development-of-sickle-cell-disease-therapies) highlights our work on sickle cell disease. (Mar. 2, 2020)
 - I gave a talk on Scientific Machine Learning at Lawrence Livermore National Laboratory. (Feb. 19, 2020)

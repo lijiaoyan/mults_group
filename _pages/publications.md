@@ -28,8 +28,8 @@ author_profile: true
 
 ## Journal Papers
 
-1. **L. Lu**, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://arxiv.org/abs/1910.03193). *Nature Machine Intelligence*, to appear.
 1. G. E. Karniadakis, Y. Kevrekidis, **L. Lu**, P. Perdikaris, S. Wang, & L. Yang. A perspective on physics-informed machine learning. *Nature Reviews Physics*, to appear, invited.
+1. **L. Lu**, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://doi.org/10.1038/s42256-021-00302-5). *Nature Machine Intelligence*, 3, 218--229, 2021. (**Highlighted on [*Nature Machine Intelligence*, 3, 192--193, 2021](https://doi.org/10.1038/s42256-021-00318-x)**)
 1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://doi.org/10.1063/5.0041203). *The Journal of Chemical Physics*, 154(10), 104118, 2021.
 1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://doi.org/10.1137/19M1274067). *SIAM Review*, 63(1), 208--228, 2021.
 1. A. Yazdani<sup>\*</sup>, **L. Lu**<sup>\*</sup>, M. Raissi, & G. E. Karniadakis. [Systems biology informed deep learning for inferring parameters and hidden dynamics](https://doi.org/10.1371/journal.pcbi.1007575). *PLoS Computational Biology*, 16(11), e1007575, 2020. (**Highlighted on [*Nature Computational Science*, 1, 16, 2021](https://doi.org/10.1038/s43588-020-00020-9)**)
