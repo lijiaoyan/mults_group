@@ -23,12 +23,11 @@ author_profile: true
 1. B. Deng, Y. Shin, **L. Lu**, Z. Zhang, & G. E. Karniadakis. [Convergence rate of DeepONets for learning operators arising from advection-diffusion equations](https://arxiv.org/abs/2102.10621). *arXiv preprint arXiv:2102.10621*, 2021.
 1. **L. Lu**, R. Pestourie, W. Yao, Z. Wang, F. Verdugo, & S. G. Johnson. [Physics-informed neural networks with hard constraints for inverse design](https://arxiv.org/abs/2102.04626). *arXiv preprint arXiv:2102.04626*, 2021.
 1. Z. Mao, **L. Lu**, O. Marxen, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators](https://arxiv.org/abs/2011.03349). *arXiv preprint arXiv:2011.03349*, 2020.
-1. S. Cai, Z. Wang, **L. Lu**, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks](https://arxiv.org/abs/2009.12935). *arXiv preprint arXiv:2009.12935*, 2020.
-<!-- 1. **L. Lu**, Y. Su, & G. E. Karniadakis. [Collapse of deep and narrow neural nets](https://arxiv.org/abs/1808.04947). *arXiv preprint arXiv:1808.04947*, 2018. -->
 
 ## Journal Papers
 
 1. G. E. Karniadakis, Y. Kevrekidis, **L. Lu**, P. Perdikaris, S. Wang, & L. Yang. A perspective on physics-informed machine learning. *Nature Reviews Physics*, to appear, invited.
+1. S. Cai, Z. Wang, **L. Lu**, T. A. Zaki, & G. E. Karniadakis. [DeepM\&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks](https://doi.org/10.1016/j.jcp.2021.110296). *Journal of Computational Physics*, 436, 110296, 2021.
 1. **L. Lu**, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://doi.org/10.1038/s42256-021-00302-5). *Nature Machine Intelligence*, 3, 218--229, 2021. (**Highlighted on [*Nature Machine Intelligence*, 3, 192--193, 2021](https://doi.org/10.1038/s42256-021-00318-x)**)
 1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://doi.org/10.1063/5.0041203). *The Journal of Chemical Physics*, 154(10), 104118, 2021.
 1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://doi.org/10.1137/19M1274067). *SIAM Review*, 63(1), 208--228, 2021.
