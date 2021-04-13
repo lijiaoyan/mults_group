@@ -49,9 +49,6 @@ author_profile: true
 1. **L. Lu**, X. Li, P. G. Vekilov, & G. E. Karniadakis. [Probing the twisted structure of sickle hemoglobin fibers via particle simulations](https://doi.org/10.1016/j.bpj.2016.04.002). *Biophysical Journal*, 110(9), 2085--2093, 2016. (**Highlighted on *Biophysical Journal* homepage**)
 1. **L. Lu**, X. Zhang, Y. Yan, J. M. Li, & X. Zhao. [Theoretical analysis of natural-gas leakage in urban medium-pressure pipelines](https://www.researchgate.net/profile/Xingxing_Zhang4/publication/265020333_Theoretical_Analysis_of_Natural-Gas_Leakage_in_Urban_Medium-pressure_Pipelines/links/53fc5acc0cf2dca8ffff1239/Theoretical-Analysis-of-Natural-Gas-Leakage-in-Urban-Medium-pressure-Pipelines.pdf). *Journal of Environment and Human*, 1(2), 71--86, 2014.
 
-<!--
 ## Workshop Papers
 
-1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](http://ceur-ws.org/Vol-2587/article_14.pdf). *AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences*, 2020.
-1. **L. Lu**, X. Meng, Z. Mao, & G. E. Karniadakis. [DeepXDE: A deep learning library for solving differential equations](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_2.pdf). *Conference on Neural Information Processing Systems Workshop on Machine Learning and the Physical Sciences*, 2019.
--->
+1. **L. Lu**, H. He, P. Kasimbeg, R. Ranade, & J. Pathak. [One-shot learning for solution operators of partial differential equations](https://arxiv.org/abs/2104.05512). *ICLR Workshop on Deep Learning for Simulation*, 2021.
