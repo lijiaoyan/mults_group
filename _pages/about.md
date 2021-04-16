@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- News of DeepONet on [Tech Xplore](https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html). (Apr. 12, 2021)
 - We proposed the first method of [one-shot learning for solution operators of partial differential equations](https://arxiv.org/abs/2104.05512). (Apr. 12, 2021)
 - DeepONet was published in [Nature Machine Intelligence](https://doi.org/10.1038/s42256-021-00302-5), and also see the [News article](https://doi.org/10.1038/s42256-021-00318-x). (Mar. 18, 2021)
 - I gave a talk on DeepONet at SIAM Conference on Computational Science and Engineering. (Mar. 3, 2021)
