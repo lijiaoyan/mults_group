@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- I gave a talk on DeepONet in the Numerical Analysis Seminar at University of Iowa. (May 4, 2021)
 - News of DeepONet on [Quanta Magazine](https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faster-than-ever-20210419/). (Apr. 19, 2021)
 - News of DeepONet on [Tech Xplore](https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html). (Apr. 12, 2021)
 - We proposed the first method of [one-shot learning for solution operators of partial differential equations](https://arxiv.org/abs/2104.05512). (Apr. 12, 2021)
