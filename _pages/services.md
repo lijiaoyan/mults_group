@@ -17,6 +17,7 @@ author_profile: true
   - [Computer Methods in Applied Mechanics and Engineering](https://www.journals.elsevier.com/computer-methods-in-applied-mechanics-and-engineering)
   - [SIAM Journal on Scientific Computing](https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc)
   - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
+  - [Computers & Mathematics with Applications](https://www.journals.elsevier.com/computers-and-mathematics-with-applications)
   - [Journal of Scientific Computing](https://www.springer.com/journal/10915)
   - [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
   - [Multiscale Modeling & Simulation](https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms)
