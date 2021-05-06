@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- [One-shot learning for PDEs solution operators](https://arxiv.org/abs/2104.05512) was presented at [ICLR Workshop on Deep Learning for Simulation](https://simdl.github.io/). (May 7, 2021)
 - I gave a talk on DeepONet in the Numerical Analysis Seminar at University of Iowa. (May 4, 2021)
 - News of DeepONet on [Quanta Magazine](https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faster-than-ever-20210419/). (Apr. 19, 2021)
 - News of DeepONet on [Tech Xplore](https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html). (Apr. 12, 2021)
@@ -44,9 +45,9 @@ Recent news
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 - I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
 - I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
-- I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr. 24, 2020)
 
 <!--
+- I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr. 24, 2020)
 - I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)
 - [Brown News](https://www.brown.edu/news/2020-03-27/indentation): Machine learning improves non-destructive materials testing. (Mar. 27, 2020)
 - I gave a [talk](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13) on DeepXDE at [AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences](https://sites.google.com/view/aaai-mlps). (Mar. 24, 2020)
