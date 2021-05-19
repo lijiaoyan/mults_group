@@ -21,6 +21,7 @@ Upcoming talks
 Recent news
 ===========
 
+- We used DeepONet to [predict linear instability waves in high-speed boundary layers](https://arxiv.org/abs/2105.08697). (May 18, 2021)
 - [One-shot learning for PDEs solution operators](https://arxiv.org/abs/2104.05512) was presented at [ICLR Workshop on Deep Learning for Simulation](https://simdl.github.io/). (May 7, 2021)
 - I gave a talk on DeepONet in the Numerical Analysis Seminar at University of Iowa. (May 4, 2021)
 - News of DeepONet on [Quanta Magazine](https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faster-than-ever-20210419/). (Apr. 19, 2021)
