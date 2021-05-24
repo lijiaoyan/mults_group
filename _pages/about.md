@@ -21,6 +21,8 @@ Upcoming talks
 Recent news
 ===========
 
+- Our review paper on physics-informed machine learning was published in [Nature Reviews Physics](https://doi.org/10.1038/s42254-021-00314-5). (May 24, 2021)
+- I gave a talk on DeepONet at SIAM Conference on Applications of Dynamical Systems. (May 24, 2021)
 - We used DeepONet to [predict linear instability waves in high-speed boundary layers](https://arxiv.org/abs/2105.08697). (May 18, 2021)
 - [One-shot learning for PDEs solution operators](https://arxiv.org/abs/2104.05512) was presented at [ICLR Workshop on Deep Learning for Simulation](https://simdl.github.io/). (May 7, 2021)
 - I gave a talk on DeepONet in the Numerical Analysis Seminar at University of Iowa. (May 4, 2021)

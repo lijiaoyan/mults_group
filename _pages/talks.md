@@ -17,6 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
+1. [DeepONet: Learning nonlinear operators](http://lululxvi.github.io/files/talks/2021SIAMDS.pdf). *SIAM Conference on Applications of Dynamical Systems*, May 2021.
 1. [DeepONet: Learning nonlinear operators](http://lululxvi.github.io/files/talks/2021UIowa.pdf). *University of Iowa, Department of Mathematics*, May 2021.
 1. [DeepONet: Learning nonlinear operators based on the universal approximation theorem of operators](http://lululxvi.github.io/files/talks/2021SIAMCSE.pdf). *SIAM Conference on Computational Science and Engineering*, Mar. 2021.
 1. Integrating machine learning & multiscale modeling. *Purdue University, Department of Mathematics*, Feb. 2021.
