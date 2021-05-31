@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- I am an Applied Mathematics Instructor in [Department of Mathematics](https://math.mit.edu/) at [Massachusetts Institute of Technology](https://www.mit.edu/).
-- I received my Ph.D. in [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics) at [Brown University](https://www.brown.edu/), working with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis), in 2020. I received my B.Eng. degree in [Department of Thermal Engineering](http://www.te.tsinghua.edu.cn/publish/teen/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn) in 2013.
-- My current research interests are on scientific machine learning and deep learning theory. My broad research interests focus on computational biology and high performance computing.
+- I will join [Department of Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu) at [University of Pennsylvania](https://www.upenn.edu/) as an Assistant Professor this fall.
+- I am looking for PhD students and Postdocs to work on scientific machine learning starting from Fall 2021. Students in chemical engineering, mechanical engineering, applied mathematics, or related majors with proficient coding skills are welcomed to apply. Please feel free to contact me with CV attached if you are interested.
+- I was an Applied Mathematics Instructor in [Department of Mathematics](https://math.mit.edu/) at [Massachusetts Institute of Technology](https://www.mit.edu/) from 2020 to 2021. I received my Ph.D. in [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics) at [Brown University](https://www.brown.edu/), working with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis), in 2020. I received my B.Eng. degree in [Department of Thermal Engineering](http://www.te.tsinghua.edu.cn/publish/teen/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn) in 2013.
+- My current research interest is on scientific machine learning. My broad research interests focus on multiscale modeling and high performance computing.
 - [Curriculum Vitae](http://lululxvi.github.io/files/CV.pdf)
 
 <!---
@@ -47,9 +48,9 @@ Recent news
 - Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 - I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
-- I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 
 <!--
+- I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 - I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr. 24, 2020)
 - I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)
 - [Brown News](https://www.brown.edu/news/2020-03-27/indentation): Machine learning improves non-destructive materials testing. (Mar. 27, 2020)
