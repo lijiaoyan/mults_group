@@ -47,9 +47,9 @@ Recent news
 - I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
 - Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
-- I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
 
 <!--
+- I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
 - I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 - I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr. 24, 2020)
 - I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)

@@ -27,7 +27,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. G. E. Karniadakis<sup>\*</sup>, I. G. Kevrekidis<sup>\*</sup>, **L. Lu**<sup>\*</sup>, P. Perdikaris<sup>\*</sup>, S. Wang<sup>\*</sup>, & L. Yang<sup>\*</sup>. [Physics-informed machine learning](https://doi.org/10.1038/s42254-021-00314-5). *Nature Reviews Physics*, 2021.
+1. G. E. Karniadakis<sup>\*</sup>, I. G. Kevrekidis<sup>\*</sup>, **L. Lu**<sup>\*</sup>, P. Perdikaris<sup>\*</sup>, S. Wang<sup>\*</sup>, & L. Yang<sup>\*</sup>. [Physics-informed machine learning](https://doi.org/10.1038/s42254-021-00314-5). *Nature Reviews Physics*, 3(6), 422--440, 2021.
 1. S. Cai, Z. Wang, **L. Lu**, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks](https://doi.org/10.1016/j.jcp.2021.110296). *Journal of Computational Physics*, 436, 110296, 2021.
 1. **L. Lu**, P. Jin, G. Pang, Z. Zhang, & G. E. Karniadakis. [Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators](https://doi.org/10.1038/s42256-021-00302-5). *Nature Machine Intelligence*, 3, 218--229, 2021. (**Highlighted on [*Nature Machine Intelligence*, 3, 192--193, 2021](https://doi.org/10.1038/s42256-021-00318-x)**, [Tech Xplore](https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html), [Quanta Magazine](https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faster-than-ever-20210419/))
 1. C. Lin, Z. Li, **L. Lu**, S. Cai, M. Maxey, & G. E. Karniadakis. [Operator learning for predicting multiscale bubble growth dynamics](https://doi.org/10.1063/5.0041203). *The Journal of Chemical Physics*, 154(10), 104118, 2021.
