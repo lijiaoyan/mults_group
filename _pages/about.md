@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - I will join [Department of Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu) at [University of Pennsylvania](https://www.upenn.edu/) as an Assistant Professor this fall.
-- **PhD & Postdoc Opening**: I am looking for PhD students and Postdocs to work on scientific machine learning starting from Fall 2021. Students in chemical engineering, mechanical engineering, applied mathematics, or related majors with proficient coding skills are welcomed to apply. Please feel free to contact me with CV (and/or transcripts, sample publications) attached if you are interested.
+- **PhD & Postdoc Opening**: I am looking for PhD students and Postdocs to work on scientific machine learning starting from Fall 2021. Students in chemical engineering, mechanical engineering, applied mathematics, or related majors with proficient coding skills are welcome to apply. Please feel free to contact me with CV (and/or transcripts, sample publications) attached if you are interested. For more information, please check the PhD programs in [Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu/doctoral/) and [Applied Mathematics and Computational Science](https://www.amcs.upenn.edu/applying/general-information).
 - I was an Applied Mathematics Instructor in [Department of Mathematics](https://math.mit.edu/) at [Massachusetts Institute of Technology](https://www.mit.edu/) from 2020 to 2021. I received my Ph.D. in [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics) at [Brown University](https://www.brown.edu/), working with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis), in 2020. I received my B.Eng. degree in [Department of Thermal Engineering](http://www.te.tsinghua.edu.cn/publish/teen/index.html) at [Tsinghua University](http://www.tsinghua.edu.cn) in 2013.
 - My current research interest is on scientific machine learning. My broad research interests focus on multiscale modeling and high performance computing.
 - [Curriculum Vitae](http://lululxvi.github.io/files/CV.pdf)
@@ -45,10 +45,10 @@ Recent news
 - We developed [DeepM&Mnet](https://arxiv.org/abs/2009.12935) to build multiphysics & multiscale models in a plug-and-play mode using pretrained [DeepONets](https://arxiv.org/abs/1910.03193) that approximate nonlinear operators. (Sept. 28, 2020)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
 - I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
-- Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
-- I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 
 <!--
+- Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
+- I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 - I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
 - I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 - I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr. 24, 2020)
