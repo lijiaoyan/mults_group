@@ -9,7 +9,7 @@ author_profile: true
 - SIAM Early Career Travel Award, SIAM Conference on Computational Science and Engineering, 2021.
 - Chinese Government Award for Outstanding Self-financed Students Abroad, 2020. (500 Ph.D. students each year all over the world)
 - [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes), Brown University, 2020. (the most prestigious Ph.D. award at Brown; 4 students per year)
-- [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards), Division of Applied Mathematics, Brown University, 2020. (1 student in the division)
+- [David Gottlieb Memorial Award](https://appliedmath.brown.edu/graduate/graduate-student-awards), Division of Applied Mathematics, Brown University, 2020. (1 student in the division)
 - Full Member, Sigma Xi, 2020.
 - SIAM Student Travel Award, SIAM Conference on Mathematics of Data Science, 2020.
 - Luis W. Alvarez Fellowship, Lawrence Berkeley National Laboratory, 2020. (declined)

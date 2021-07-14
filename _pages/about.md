@@ -22,6 +22,7 @@ Upcoming talks
 Recent news
 ===========
 
+- Our paper on glucose levels prediction in type 2 diabetes patients via deep learning was published in [npj Digital Medicine](https://doi.org/10.1038/s41746-021-00480-x). (July 14, 2021)
 - Our review paper on physics-informed machine learning was published in [Nature Reviews Physics](https://doi.org/10.1038/s42254-021-00314-5). (May 24, 2021)
 - I gave a talk on DeepONet at SIAM Conference on Applications of Dynamical Systems. (May 24, 2021)
 - We used DeepONet to [predict linear instability waves in high-speed boundary layers](https://arxiv.org/abs/2105.08697). (May 18, 2021)
@@ -45,14 +46,14 @@ Recent news
 - We developed [DeepM&Mnet](https://arxiv.org/abs/2009.12935) to build multiphysics & multiscale models in a plug-and-play mode using pretrained [DeepONets](https://arxiv.org/abs/1910.03193) that approximate nonlinear operators. (Sept. 28, 2020)
 - [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
 - I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
+- I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
+- I received [David Gottlieb Memorial Award](https://appliedmath.brown.edu/graduate/graduate-student-awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)
 
 <!--
 - Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 - I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
-- I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 - I gave a talk on physics-informed deep learning at Emory University, Scientific Computing Group. (Apr. 24, 2020)
-- I received [David Gottlieb Memorial Award](https://www.brown.edu/academics/applied-mathematics/graduate-program/awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)
 - [Brown News](https://www.brown.edu/news/2020-03-27/indentation): Machine learning improves non-destructive materials testing. (Mar. 27, 2020)
 - I gave a [talk](https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PL1e3Jic2_DwwJQ528agJYMEpA0oMaDSA9&index=13) on DeepXDE at [AAAI Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences](https://sites.google.com/view/aaai-mlps). (Mar. 24, 2020)
 - Paper about multi-fidelity neural networks for inverse indentation problems published in [PNAS](https://www.pnas.org/content/117/13/7052.short). (Mar. 16, 2020)
