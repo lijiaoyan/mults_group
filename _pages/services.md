@@ -13,6 +13,7 @@ author_profile: true
 - Journal Reviewer:
 
   - [Nature Computational Science](https://www.nature.com/natcomputsci/)
+  - [Nature Communications](https://www.nature.com/ncomms/)
   - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
   - [Computer Methods in Applied Mechanics and Engineering](https://www.journals.elsevier.com/computer-methods-in-applied-mechanics-and-engineering)
   - [Computers & Mathematics with Applications](https://www.journals.elsevier.com/computers-and-mathematics-with-applications)
