@@ -27,6 +27,7 @@ author_profile: true
   - [PLoS ONE](https://journals.plos.org/plosone/)
   - [European Journal of Applied Mathematics](https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics)
   - [Journal of Materials Research](https://www.springer.com/journal/43578)
+  - [Computation](https://www.mdpi.com/journal/computation)
   - [Journal of Eye Study and Treatment](https://ocimumpublishers.com/journal/eye-study-treatment)
   - [International Journal of Blood Research and Disorders](https://www.clinmedjournals.org/International-Journal-of-Blood-Research-and-Disorders.php?jid=ijbrd)
 

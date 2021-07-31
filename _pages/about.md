@@ -44,12 +44,12 @@ Recent news
 - Our paper on dying ReLU was published in [Communications in Computational Physics](https://doi.org/10.4208/cicp.OA-2020-0165). (Nov. 18, 2020)
 - We developed [DeepM&Mnet for hypersonics](https://arxiv.org/abs/2011.03349). (Nov. 1, 2020)
 - We developed [DeepM&Mnet](https://arxiv.org/abs/2009.12935) to build multiphysics & multiscale models in a plug-and-play mode using pretrained [DeepONets](https://arxiv.org/abs/1910.03193) that approximate nonlinear operators. (Sept. 28, 2020)
-- [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
 - I received Chinese Government Award for Outstanding Self-Financed Students Abroad. (July 10, 2020)
 - I received [Joukowsky Family Foundation Outstanding Dissertation Award](https://www.brown.edu/academics/gradschool/about/newsletter/leaders-their-fields-four-students-selected-2020-joukowsky-prizes) (the most prestigious Ph.D. award) from Brown University. (May 24, 2020)
 - I received [David Gottlieb Memorial Award](https://appliedmath.brown.edu/graduate/graduate-student-awards) from the Division of Applied Mathematics, Brown University. (Apr. 1, 2020)
 
 <!--
+- [DeepXDE](https://github.com/lululxvi/deepxde) was used to solve inverse problems in systems biology, see our paper on [bioRxiv](https://doi.org/10.1101/865063). (July 27, 2020)
 - Our paper on generalization for neural networks was published in [Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302392). (July 3, 2020)
 - I organized a minisymposium on Machine Learning for Physical Systems at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 29, 2020)
 - I gave a talk on DeepXDE at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds20). (June 22, 2020)
