@@ -17,7 +17,7 @@ author_profile: true
 
 ## Invited Talks
 
-1. [Physics-informed deep learning](http://lululxvi.github.io/files/talks/2021Synced.pdf). *Synced*, Aug. 2021.
+1. [Physics-informed deep learning](http://lululxvi.github.io/files/talks/2021Synced.pdf). *Synced*, Aug. 2021. ([Video](https://jmq.h5.xeknow.com/s/1sxJEl))
 1. [DeepONet: Learning nonlinear operators](http://lululxvi.github.io/files/talks/2021UIowa.pdf). *University of Iowa, Department of Mathematics*, May 2021.
 1. Integrating machine learning & multiscale modeling. *Purdue University, Department of Mathematics*, Feb. 2021.
 1. Integrating machine learning & multiscale modeling in biomedicine. *Queen's University, Department of Mechanical and Material Engineering*, Feb. 2021. ([Video](https://www.youtube.com/watch?v=JXwLxE6VV4E))
