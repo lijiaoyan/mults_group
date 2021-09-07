@@ -22,6 +22,7 @@ Upcoming talks
 Recent news
 ===========
 
+- I gave a talk on DeepONet at the Conference on the Numerical Solution of Differential and Differential-Algebraic Equations (NUMDIFF-16). (Sept. 7, 2021)
 - Our paper on glucose levels prediction in type 2 diabetes patients via deep learning was published in [npj Digital Medicine](https://doi.org/10.1038/s41746-021-00480-x). (July 14, 2021)
 - Our review paper on physics-informed machine learning was published in [Nature Reviews Physics](https://doi.org/10.1038/s42254-021-00314-5). (May 24, 2021)
 - I gave a talk on DeepONet at SIAM Conference on Applications of Dynamical Systems. (May 24, 2021)
