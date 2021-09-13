@@ -23,10 +23,10 @@ author_profile: true
 1. P. Clark Di Leoni, **L. Lu**, C. Meneveau, G. E. Karniadakis, & T. A. Zaki. [DeepONet prediction of linear instability waves in high-speed boundary layers](https://arxiv.org/abs/2105.08697). *arXiv preprint arXiv:2105.08697*, 2021.
 1. B. Deng, Y. Shin, **L. Lu**, Z. Zhang, & G. E. Karniadakis. [Convergence rate of DeepONets for learning operators arising from advection-diffusion equations](https://arxiv.org/abs/2102.10621). *arXiv preprint arXiv:2102.10621*, 2021.
 1. **L. Lu**, R. Pestourie, W. Yao, Z. Wang, F. Verdugo, & S. G. Johnson. [Physics-informed neural networks with hard constraints for inverse design](https://arxiv.org/abs/2102.04626). *arXiv preprint arXiv:2102.04626*, 2021.
-1. Z. Mao, **L. Lu**, O. Marxen, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators](https://arxiv.org/abs/2011.03349). *arXiv preprint arXiv:2011.03349*, 2020.
 
 ## Journal Papers
 
+1. Z. Mao, **L. Lu**, O. Marxen, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators](https://doi.org/10.1016/j.jcp.2021.110698). *Journal of Computational Physics*, 110698, 2021.
 1. Y. Deng<sup>\*</sup>, **L. Lu**<sup>\*</sup>, L. Aponte, A. M. Angelidi, V. Novak, G. E. Karniadakis, & C. S. Mantzoros. [Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients](https://doi.org/10.1038/s41746-021-00480-x). *npj Digital Medicine*, 4, 109, 2021.
 1. G. E. Karniadakis<sup>\*</sup>, I. G. Kevrekidis<sup>\*</sup>, **L. Lu**<sup>\*</sup>, P. Perdikaris<sup>\*</sup>, S. Wang<sup>\*</sup>, & L. Yang<sup>\*</sup>. [Physics-informed machine learning](https://doi.org/10.1038/s42254-021-00314-5). *Nature Reviews Physics*, 3(6), 422--440, 2021.
 1. S. Cai, Z. Wang, **L. Lu**, T. A. Zaki, & G. E. Karniadakis. [DeepM&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks](https://doi.org/10.1016/j.jcp.2021.110296). *Journal of Computational Physics*, 436, 110296, 2021.
