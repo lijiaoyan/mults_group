@@ -18,6 +18,7 @@ author_profile: true
   - [Computer Methods in Applied Mechanics and Engineering](https://www.journals.elsevier.com/computer-methods-in-applied-mechanics-and-engineering)
   - [Computers & Mathematics with Applications](https://www.journals.elsevier.com/computers-and-mathematics-with-applications)
   - [SIAM Journal on Scientific Computing](https://www.siam.org/publications/journals/siam-journal-on-scientific-computing-sisc)
+  - [Metabolism: Clinical and Experimental](https://www.journals.elsevier.com/metabolism)
   - [Neural Networks](https://www.journals.elsevier.com/neural-networks)
   - [Journal of Scientific Computing](https://www.springer.com/journal/10915)
   - [Multiscale Modeling & Simulation](https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms)
