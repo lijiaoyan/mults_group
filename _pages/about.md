@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-⚠️**Update of this website has stopped since Sept. 2021. My new website is [here](https://lu.seas.upenn.edu).**
+⚠️**Update of this website has stopped since Sept. 2021. My new website is [here](https://lu.seas.upenn.edu).**⚠️
 
 - I am an Assistant Professor in [Department of Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu) at [University of Pennsylvania](https://www.upenn.edu/).
 - **PhD & Postdoc Opening**: I am looking for PhD students and Postdocs to work on scientific machine learning starting from Fall 2021. Students in chemical engineering, mechanical engineering, applied mathematics, or related majors with proficient coding skills are welcome to apply. Please feel free to contact me with CV (and/or transcripts, sample publications) attached if you are interested. For more information, please check the PhD programs in [Chemical and Biomolecular Engineering](https://cbe.seas.upenn.edu/doctoral/) and [Applied Mathematics and Computational Science](https://www.amcs.upenn.edu/applying/general-information).
