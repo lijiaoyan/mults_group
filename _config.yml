@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lu Lu"
+title                    : "Jiaoyan Li"
 title_separator          : "-"
-name                     : &name "Lu Lu"
-description              : &description "Assistant Professor, Department of Chemical and Biomolecular Engineering, University of Pennsylvania"
+name                     : &name "Tejas Milind Khot"
+description              : &description "Assistant Professor, Department of Mechanical and Aerospace Engineering, University at Buffalo"
 url                      : https://lijiaoyan.github.io/mults_group/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lijiaoyan/mults_group.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lu Lu"
-  avatar           : "lulu.jpg"
+  name             : "Jiaoyan Li"
+  avatar           : "jiaoyan.jpeg"
   bio              : "Assistant Professor, Department of Chemical and Biomolecular Engineering, University of Pennsylvania"
   location         :
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=wD_wsWUAAAAJ&hl=en"
-  email            : "lulu1@seas.upenn.edu"
-  researchgate     : "https://www.researchgate.net/profile/Lu_Lu93"
+  googlescholar    : "https://scholar.google.com/citations?user=_LgG4m8AAAAJ&hl=en"
+  email            : "jiaoyan@buffalo.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Lu_Lu93"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lululxvi"
+  github           : "lijiaoyan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "lu-lu-8505903b"
-  orcid            : "http://orcid.org/0000-0002-5476-5768"
+  linkedin         : #"lu-lu-8505903b"
+  orcid            : #"http://orcid.org/0000-0002-5476-5768"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "6185009/lulu66"
