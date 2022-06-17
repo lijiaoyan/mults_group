@@ -11,19 +11,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Massachusetts Institute of Technology
+## University at Buffal0
 
-- Instructor, 18.085 Computational Science and Engineering I, Spring 2021
-- Recitation Instructor, 18.02 Multivariable Calculus, Fall 2020
+- Instructor, MAE 315 Analysis of Structures, Fall 2022
+- Instructor, MAE 529 Finite Element Structural Analysis, Fall 2021, Fall 2022
+- Instructor, MAE 524 Elasticity, Spring 2021, Spring 2022
 
 ## Brown University
 
-- Teaching Assistant, APMA 2550 Numerical Solution of Partial Differential Equations I, Fall 2017, Fall 2018
-- Instructor, 
+- Instructor, ENGN 2910 Atomistic Simulation in Mechanics and Physics, Spring 2016
 
 ## George Washington University
 
-- Teaching Assistant, APMA 2550 Numerical Solution of Partial Differential Equations I, Fall 2017, Fall 2018
-- Teaching Assistant, APMA 1200 Operations Research: Probability Models, Spring 2018
-- Teaching Assistant, APMA 1690 Computational Probability and Statistics, Fall 2017
-- Teaching Assistant, ENGN 1860 Advanced Fluid Mechanics, Spring 2015
+- Instructor, MAE 3128 Biomechanics I, Spring 2013, Spring 2014, Spring 2015
+- Teaching Assistant, MAE 6287 Applied Finite Element Analysis, Spring 2013, Spring 2014
+- Teaching Assistant, MAE 6210 Continuum Mechanics, Fall 2012, Fall 2013, Fall 2014
