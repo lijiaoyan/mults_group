@@ -12,14 +12,14 @@ main:
   - title: "Team"
     url: /Team/
 
-  - title: "Services"
-    url: /services/
+ # - title: "Services"
+  #  url: /services/
 
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Softwares"
-    url: /softwares/
+  #- title: "Softwares"
+   # url: /softwares/
 
   # - title: "Portfolio"
   #   url: /portfolio/
