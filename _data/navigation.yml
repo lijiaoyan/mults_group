@@ -6,9 +6,6 @@ main:
   - title: "Research"
     url: /Research/
 
-  - title: "Awards"
-    url: /awards/
-
   - title: "Team"
     url: /Team/
 
@@ -17,6 +14,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/  
+    
+  - title: "Awards"
+    url: /awards/
 
   #- title: "Softwares"
    # url: /softwares/
